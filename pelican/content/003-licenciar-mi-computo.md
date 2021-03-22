@@ -138,7 +138,8 @@ Las teorías de la conspiración siempre son temibles, son unos memes maniqueís
 
 ### Sobre hombros de gigantes 
 Beatriz Busaniche y Barbi Couto
-__¿Qué es el dominio público?__Las ideas, tus ideas, mis ideas, no son ni tuyas, ni mías. Todas las ideas están en __el dominio público__. La definición de dominio público, que yo voy a usar y que quiero compartir en este texto es ese  __acervo cultural común donde está toda nuestra herencia__
+__¿Qué es el dominio público?
+__Las ideas, tus ideas, mis ideas, no son ni tuyas, ni mías. Todas las ideas están en __el dominio público__. La definición de dominio público, que yo voy a usar y que quiero compartir en este texto es ese  __acervo cultural común donde está toda nuestra herencia__
 
 _Técnicamente el dominio público es aquel ámbito al que vuelvenlas obras una vez que ha prescrito el monopolio de propiedad intelectual._
 Hay muchas patentes que han pasado al dominio
@@ -693,3 +694,59 @@ más oportuna a sus ciudadanos. Desde entonces ha crecido de ocho
 países participantes a 70.21 En todos estos países, el gobierno y la sociedad
 civil están trabajando juntos para desarrollar e implementar reformas ambiciosas
 de gobierno abierto. 
+
+# ¿Por que me es importante? ¿Qué es el derecho de autor?
+
+
+Esta idea es la que precisamente ha hecho que se hagan muchas leyes entorno a la protección de este tipo de personajes. Hay que proteger su obra para evitar que sea "robada" __para evitar que las personas se beneficien de su obra sin que la autora lo haga__
+
+__Con el paso
+de los años esa protección fue desvirtuándose, alineándose
+cada vez más a los intereses de grandes corporaciones y alejándose
+de la garantía inicial de proteger a los autores.Hoy
+por hoy estas legislaciones históricas no adaptadas a estas
+épocas hablan de límites que desafían al sentido común.__ Pongo
+un solo ejemplo: ___que un docente lea en el aula a sus alumnos
+un libro completo de un autor que quiere compartir, es legal; que ese mismo docente hoy, en contexto de pandemia,
+comparta con sus alumnos a través de herramientas digitales
+(un video, un audio, un pdf) un libro completo de un autor,
+es ilegal___. No hay mucho más que agregar para hacer __evidente
+que se trata de una legislación que requiere de una revisión
+urgente, que contemple excepciones y una mirada actual de
+la creación artística y sus formas de producción y circulación.__
+
+__Las ideas, tus ideas, mis ideas, no son ni tuyas, ni mías. Todas las ideas están en __el dominio público__. La definición de dominio público, que yo voy a usar y que quiero compartir en este texto es ese  __acervo cultural común donde está toda nuestra herencia__
+
+__La cultura y los inventos son creadas por una comunidad__
+
+__El dominio público es ese lugar al que le devolvemos las
+ideas que hemos tomado de él.__
+
+__Las ideas están en el dominio público como
+la luz. Si prendo una vela, diría Jefferson, no puedo impedirle
+a cada uno de ustedes beneficiarse con la luz de mi vela.__
+
+__Nosotros llamamos a que cada uno entienda las
+tecnologías y no las compre románticamente__. 
+
+
+. __Tenemos que mirarlas críticamente
+y aprender cómo funcionan, qué hacer con ellas, qué
+hacen ellas con nosotros. Tenemos que organizarnos y tenemos
+que dialogar. Tenemos que participar. Pero para participar,
+es imprescindible entender cómo funciona el mundo hoy
+y cómo funcionan estas tecnologías que nos facilitan mucho
+la participación.__
+
+__Estamos de acuerdo en que deben existir determinadas regulaciones, pero adecuadas a los tiempos actuales y que favorezcan a todas las partes, no como las actuales que siempre inclinan la balanza para el mismo lado.__
+
+__si creemos que compartir es la base de una forma vital
+de entender que la construcción del conocimiento y la cultura
+es comunitaria y colaborativa y que por definición debe ser
+libre__;
+
+__Entonces
+lo único que resta es animarnos a crear las condiciones
+para que existan nuevas formas de sustentabilidad para
+los artistas, autores, creadores, hacedores, más acordes con
+este paradigma de creación cultural colaborativo y libre__.
