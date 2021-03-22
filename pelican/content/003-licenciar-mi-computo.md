@@ -579,14 +579,63 @@ recursos digitales.__Éstos funcionan bajo reglas económicas diferentes a las f
 En un mundo en el que los precios siempre parecen subir, la tecnología
 de la información es una anomalía.__
 
+## ¡Lean historia! 02
+Hasta mediados del siglo 15 el conocimiento y la cultura fluían libremente y sin demasiadas restricciones. Aunque es cierto que pocas personas podían acceder a él, ya que la mayoría de la población no sabía leer ni escribir. En aquellos tiempos, el conocimiento se transmitía principalmente de forma oral a través de trovadores y juglares que se encargaban de llevar historias y noticias de un lugar a otro.
 
+Pero a mediados de ese siglo, el alemán Johannes Gutenberg pone a funcionar la imprenta y los poemas y trovas que antes se transmitían oralmente, pasan a plasmarse en un papel.
 
-          - GPL
-          - BSD
-          - Apache
-          - WTFPL
-          - Creative Commons
-        - Creación técnica / Artística.
+La imprenta originó los soportes físicos. Los poemas que recitaban los juglares se imprimían ahora en libros de papel que tenían un alto costo de impresión. Este costo generó la aparición de los intermediarios, en este caso, los editores, que pagaban un derecho al autor para poder imprimir sus obras. Los editores y los soportes convirtieron a la producción literaria en un bien de consumo que sólo podía ser adquirido por quien tuviera el dinero suficiente.
+
+Además, el hecho de que la cultura fuera tratada como una mercancía dio lugar a la idea de que el intelecto tiene propietarios:
+
+“El nacimiento de la idea de propiedad intelectual fue una respuesta tanto al surgimiento de la sociedad de consumo como a la expansión de la imprenta. Hay un cierto sentido de propiedad literaria que se remonta al siglo XV, cuando no antes”. [1]
+
+Estos imprenteros en Gran Bretaña llegaron a tener un poder desmesurado. Pagaban muy poco a los artistas por sus obras y si en el futuro imprimir un libro no les resultaba rentable, lo abandonaban pero no permitían a nadie más hacer nuevas copias. La ciudadanía también se veía perjudicada por este monopolio ya que los libros nunca llegaban a ser del “dominio público”.
+
+Ante esta situación, en 1710, unos doscientos años después de que se masificara la imprenta, se aprueba en Gran Bretaña la primera ley de derechos autorales: el Estatuto de la Reina Anne.
+
+> “Teniendo en cuenta que, impresores, libreros y otras personas, en los últimos tiempos se han arrogado la libertad de impresión, de reimpresión y publicación, o han hecho que se impriman, reimpriman, y publiquen libros y otros escritos, sin el consentimiento de los autores o propietarios de tales libros y escritos, en perjuicio de estos y, a menudo, llevándolos a la ruina propia y de sus familias: Por lo tanto, para prevenir estas prácticas en el futuro, y para el fomento de los hombres a componer y escribir libros útiles; con la venia de su Majestad, promúlguese este estatuto”.
+
+Este fue el momento donde se comenzó a regular las obras producto del conocimiento humano. Estas legislaciones se agruparon bajo el concepto de propiedad intelectual que regula tres aspectos:
+
+Con esta ley, los autores podían defenderse del abuso de los imprenteros que ahora pasaban a tener un tiempo limitado para imprimir en exclusividad las obras que compraban: 14 años más otros 14 si el autor seguía vivo, un total de 28 años.
+
+Otro de los objetivos principales de esta ley fue democratizar el acceso al conocimiento ya que, pasados esos años, la obra entraba a formar parte del dominio público y la ciudadanía podía beneficiarse de ediciones más económicas realizadas por otros imprenteros.
+
+No solo en Gran Bretaña, también en Francia y en otros países europeos, fueron proliferando legislaciones similares. La corriente latina nacería bajo la denominación de “derechos de autor”, mientras que la anglosajona se llamaría “copyright”.
+
+1. Marcas o signos distintivos: registra logos de una empresa o el nombre de un producto.
+
+2. Patentes de inventos o descubrimientos científicos. (Estos dos primeros aspectos construyen la llamada propiedad industrial.)
+
+3. Derecho de autoría. Regula las creaciones artísticas y literarias. El derecho de autoría es el que más relación tiene con el conocimiento y la educación.
+DERECHO AUTORAL
+
+En este curso usaremos la expresión “derecho autoral o de autoría” para referirnos al tradicional “derecho de autor”. Porque en el mundo hay autores y autoras y ellos no son los únicos que tienen derechos.
+
+Como dijimos, es el que regula regula las creaciones artísticas, literarias o comunicacionales. Este derecho contiene a su vez dos tipos de derechos: los morales y los patrimoniales.
+
+Derechos morales. Son básicamente dos:
+
+• El derecho a que se reconozca que es el autor o autora de dicha obra.
+
+• El derecho de que se guarde la integridad de la obra, es decir, que no sea modificada.
+
+Derechos patrimoniales. Están relacionados con el lucro y los beneficios económicos que se perciben por las creaciones. En relación con este derecho quien crea puede conceder, o no, permiso para que su obra sea difundida, copiada, vendida,… y percibir dinero por ello.
+
+Los derechos morales nunca caducan ni hay plazos para que prescriban. Cervantes será siempre el autor de El ingenioso hidalgo don Quijote de la Mancha. Pero los derechos patrimoniales, como se comentó anteriormente, tienen un límite establecido por ley. Una vez que finaliza el plazo establecido la obra pasa a dominio público. Por eso, una imprenta o un gobierno podría editar de nuevo El Quijote pasado este tiempo sin necesidad de pagar por derechos patrimoniales.
+
+La situación actual respecto a estas limitaciones no dista mucho de los tiempos anteriores al Estatuto de Anne. Las antiguas organizaciones de imprenteros agremiadas bajo la Stationers’ Company dieron paso a grandes y poderosas corporaciones multinacionales que editan libros y producen música y películas. La presión que estas corporaciones ha ejercido durante años aumentó progresivamente los límites del derecho patrimonial del autor de forma exagerada.
+
+El Convenio de Berna para la Protección de las Obras Literarias y Artísticas del 9 de septiembre de 1886 que rige internacionalmente los principios de la propiedad intelectual, recomienda 50 años hasta que una obra pasa a dominio público, pero la mayoría de los países ha extendido estos plazos.
+
+En América Latina, por ejemplo, las Leyes de Propiedad Intelectual aumentaron este plazo hasta 70 años después del fallecimiento del autor. En Estados Unidos las obras con copyright corporativo están protegidas por 120 años desde la fecha de creación o 95 desde la publicación.
+
+Quienes promueven el concepto de “propiedad intelectual” argumentan que gracias a las patentes y a los derechos autorales se fomentan la innovación. Pero no es cierto, estas normas restringen el acceso al conocimiento y, por lo tanto, frenan los avances y la innovación. Limitan las posibilidades de desarrollo e innovación a los países, empresas o investigadores que tienen dinero para pagar el acceso a estos saberes colectivo que han sido privatizados.
+
+Si tienes más dudas sobre la Propiedad Intelectual o tienes interés en ampliar lo que aquí hemos dicho, te recomendamos leer este interesante artículo de TEDIC: El meme de la Propiedad Intelectual.
+
+Tras esta introducción sobre el concepto de Propiedad Intelectual y Derecho Autoral, y una vez que realices la tarea, puedes pasar al siguiente capítulo donde responderemos alguna de las preguntas que muchas radios nos han enviado: ¿puedo licenciar una radionovela con una licencia libre y evitar que “me la roben”? ¿Dónde registro el nombre de mi programa?
 
 
 #### Ejemplos de creación colectiva
