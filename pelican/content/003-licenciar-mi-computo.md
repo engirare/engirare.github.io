@@ -6,6 +6,8 @@ Con la novedad de que mañana estoy presente en un live. Haré un pequeño resum
 
  ## Qué y por qué del derecho de autor. ¿Por qué nos interesa?
 
+### Día de la propiedad intelectual 
+
 En el año 2000 la Asamblea General de las Naciones Unidas declaró el 26 de abril como el Día Mundial de la Propiedad Intelectual coincidiendo con la fecha de la entrada en vigor del __Convenio por el que se establece la Organización Mundial de la Propiedad Intelectual__ (OMPI o WIPO en inglés).
 Este convenio se operativizó el __26 de abril de 1970__, pero pasaron 30 años hasta que se decretó un día que conmemore la propiedad intelectual. 
 
@@ -35,6 +37,8 @@ __Estamos de acuerdo en que deben existir determinadas regulaciones, pero adecua
 
 ![Capitalismo cognitivo vs Economía social del conocimiento](https://user-images.githubusercontent.com/80874620/111928797-3da81180-8a7a-11eb-91ea-804d38dcad17.png)
 
+[Radios Libres](https://radioslibres.net/26-abril-dia-de-la-propiedad-intelectual/).
+
 #### Ejemplos de creación colectiva
 
 Si estudiamos un poco la evolución de las ___impresoras 3D___ nos daremos cuenta que el desarrollo real de esta tecnología no fue cuando Chuck Hull la patentó en 1984, sino cuando proyectos abiertos como RepRap o MakerBot masificaron su uso permitiendo a miles de investigadores crear con estas nuevas herramientas.
@@ -45,11 +49,35 @@ En el año 2011 una joven rusa llamada Alexandra Elbakyan creó la plataforma __
 
 El actual sistema de propiedad intelectual. Este marco regulatorio ha permitido que el maíz originario mexicano casi haya desaparecido en detrimento del transgénico de la empresa Monsanto. 
 
-[Radios Libres](https://radioslibres.net/26-abril-dia-de-la-propiedad-intelectual/).
+«James Watt inventó la máquina de vapor en 1769», supuestamente inspirado por haber observado salir el vapor por el pitorro de una tetera. Ésta maravillosa fábula queda desmentida por la realidad de que Watt concibió la idea de su propia máquina de vapor mientras procedía a reparar un modelo de la máquina de vapor de Newcomen, que éste había inventado 57 años antes y de la que ya se habían fabricado más de cien en Inglaterra para la fecha en que Watt realizara su tarea de reparación. A su vez, la máquina de Newcomen siguió a la que el inglés Thomas Savery había patentado en 1698, que vino después de la diseñada por el francés Denis Papin hacia 1680 (pero que no fue construida). Ésta tuvo precursores en las ideas del científico holandés Christiaan Huygens y otros.
 
-Radios Libres
+En la música por ejemplo, los artistas suelen ser influidos por otros y muchas veces toman partes enteras de melodías, sin explicitarlo. Te recomendamos documentales que lo demuestran claramente: el primero plantea la re-mezcla como nueva forma de producción a la vez que cuenta cómo nuestros grandes ídolos de la música se copian entre sí: [“RiP! – A Remix Manifesto”](https://www.youtube.com/watch?v=SfM0i8Pvdjc). El segundo es [“Todo es un Remix”](https://www.youtube.com/watch?v=Q-I5m3Sl_Gk) en el que se explora este concepto a fondo proponiendo muchísimos ejemplos con los que te quedarás de boca abierta.
 
-### Reflexión sobre el autor o autora
+No me voy a tomar el tiempo aquí de detallar una falacia que
+recorre casi todas las conversaciones y debates más o menos
+aguerridos que leo cotidianamente sobre el tema: __la de que
+una copia en pdf circulando de manera no autorizada por el
+titular de los derechos es una venta menos del libro impreso.__
+Para empezar no hay estadísticas ni estudios que fundamenten
+eso, pero estoy segura que si se hicieran estudios y fuera
+serios y no predispuestos a favorecer a la falacia, los resultados
+serían los contrarios. Internet es una ventana enorme, si
+un título estuviera exhibido en todas las vidrieras, en todas
+las mesas de lectura, en todas las mesas de novedades, de todas
+las librerías, de todas las ferias y de todas las bibliotecas
+de todo el mundo, ese libro, al contrario de venderse poco, se
+vendería mucho más. __Si ese pdf que circula tuviera información
+clara de dónde se puede conseguir el material impreso y
+ese sitio fuera accesible para quien lo quiere, si los sellos tuvieran
+un modelo de negocio (a falta de mejor nombre) que
+acompañe los procesos de producción y esté atento a las necesidades
+y posibilidades de estas formas de circulación descentralizadas,
+libres y accesibles, no estaríamos hablando de
+piratería en pleno siglo XXI.__
+
+
+
+### Reflexión sobre la autoria
 
 Es fundamental hablar/ que se debata del autor o de la autora porque pareciera que venimos arrastrando esta noción de que el autor es muy parecido a dios.
 
@@ -80,7 +108,7 @@ Ante este panorama:
 Ha habido otras prácticas que procuran o promueven una solución:
   
   - Hay autoras cuya postura dice que lo que creamos no es único sino parte de una colectividad
-  - El software libre __tiene la particularidad de que nos permite ver el código con el que está hecho__ escrutinarlo, ver cómo fue hecho, estudiarlo, modificarlo, distribuirlo, mejorarlo. Lo cuál está completamente prohibido con el softare privativo. Las herramientas abiertas son confiables por qué conocemos cómo fue hecho.
+  - El software libre _tiene la particularidad de que nos permite ver el código con el que está hecho_ escrutinarlo, ver cómo fue hecho, estudiarlo, modificarlo, distribuirlo, mejorarlo. Lo cuál está completamente prohibido con el softare privativo. Las herramientas abiertas son confiables por qué conocemos cómo fue hecho.
   - Uso de licencias permisivas que permitan el flujo libre sin resticción en el entorno digital: creative commons
 
 Entonces:
@@ -88,11 +116,259 @@ Entonces:
   - Uso de software libre
   - __Licenciamiento permisivo para beneficiarnos y beneficiar a nuestra comunidad___
 
-Notas de vídeo de Irene Soria
+Notas de vídeo de [Irene Soria](https://www.youtube.com/watch?v=ReiMaWgBpXQ)
 
-### ¿Qué es el dominio público?
-Las ideas, tus ideas, mis ideas, no son ni tuyas, ni mías. Todas las ideas están en el dominio público. La definición de dominio público, que yo voy a usar y que quiero compartir en este texto es ese  __acervo cultural común donde está toda nuestra herencia__
+### El meme de la Propiedad Intelectual
+
+Una frase muy común con la que suelen batallar las corporaciones, que dicen defender a los autores, es la siguiente: «Derecho de autor, salario del creador». Esta frase oculta mucho más de lo que dice. Primero esconde una diferencia entre trabajo y renta, y por otro maneja un concepto específico de autor que retomaremos más adelante (mito 9).
+
+Entonces, según el diccionario, __salario significa «cantidad de dinero que se retribuye a los trabajadores»__ . Dicho en humano: es lo que te pagan por trabajar, y el trabajo es una actividad intelectual o física en un tiempo determinado. Mientras que __la renta es la «Utilidad o beneficio que rinde anualmente algo […]»__, es decir es una ganancia posterior en el tiempo, sobre algo, material o inmaterial. Entonces, en resumidas cuentas, __la renta no implica trabajo mientras que el salario se recibe necesariamente a cambio de trabajo.__
+
+__Quienes defendemos la libre circulación de bienes inmateriales, no estamos en contra de que la gente reciba salario__: por ejemplo, que se le pague a un poeta que lee poesía, que un grupo musical cobre por tocar en un restaurante, que un científico cobre por investigar un determinado virus. Son todas formas de trabajo tal como el barrendero que pasa por la puerta de tu casa o el plomero que viene a destapar tu inodoro.
+
+Por otro lado, __el acto mismo de creación intelectual también es un trabajo que debería se remunerado.__ _¿Debería? ¿Cuánto? ¿Un salario mínimo por cada canción creada? ¿El equivalente al costo de una moto por tomar una foto? ¿Una casa a cambio de un libro escrito?_ A diferencia de lo que pasa con el “trabajo manual”, __con los momentos de creación intelectual existen complejidades que Kenneth Arrow denomina “paradoja del valor”: la dificultad de asignar un valor económico a los bienes intangibles.__
+
+Como resultado de lo anterior, se han __creado de forma artificial, monopolios artificiales sobre bienes intangibles__, tanto en los farmacéuticos, alimenticias, culturales y otras industrias, __para “fomentar el proceso creativo”__. El __resultado__ en general de estos monopolios es el __cerramiento de la cultura y unas cuantiosas ganancias para los intermediarios__, dejando al autor en la ruina, o en la necesidad de buscar otras formas de trabajo. Esto aplica para la amplia mayoría de los creadores intelectuales del planeta: científicos, músicos, escritores, poetas, etc..
+
+¿Suena raro o extraño lo que aquí te contamos? No hay nada fantasioso en lo afirmado, no hay teoría de la conspiración: basta que revises unos cuantos artículos y documentales que plantean el problema del desequilibrio e injusticia en la distribución de las rentas en la «industria» de lo intelectual.
+
+Pero lo mejor es que lo compruebes por tu cuenta: pregúntale a cualquier científico, escritor o músico que encuentres cerca: ¿cuánto recibe por la “venta” de sus obras? Lo que encontrarás (en el ejemplo de la industria cultural al menos) es que aproximadamente 90% de la renta va para el intermediario mientras que el 10% para el autor. Y esto no es culpa de Internet: el sistema sufre este desequilibrio desde su génesis.
+
+En lugar de «Derecho de autor, salario del creador», la frase se ajusta más a la realidad de esta forma: “Rentas de la creación, robo del intermediario, ruina del autor”.
+
+__El concepto de robo aplicado a bienes inmateriales__, es incorrecto ya que los mismos no tienen “problemas de apropiabiliad” (Arrow). Quiere decir que __si yo tengo un bien inmaterial, esto no priva a otro de tenerlo también.__
+
+ __el plagio: que significa adjudicarte la maternidadde una obra que alguien ha hecho anteriormente__ Esto no parece nada agradable y podría penalizarse. De todos modos vale la pena remarcar que  __la línea de lo existente y lo original a veces, suele ser difícil de establecer__.
+ 
+ Dicho lo precedente, recordemos que __toda creación se basa en un conocimiento anterior__: desde los lenguajes que utilizamos para comunicarnos, hasta la música, la investigación científica, y hasta los inventos: __la amplia mayoría se han desarrollado a partir de un enorme cúmulo de conocimiento humano, con pequeños grados de originalidad__
+ 
+ Lo que no pueden visualizar, es que __la humanidad como nunca, está compartiendo su conocimiento, su arte y su cultura en general__: ahora hay muchos más “productores” de contenido, hay más gente experimentando e investigando, hay mayor diversidad y aún falta mucho más por conectar. Ahora hay prosumidores (lo veremos en seguida).
+
+Lo que ha cambiado es la forma de producir y de distribuir lo que la humanidad genera como bienes culturales y del conocimiento y por lo tanto __deberán explorarse nuevas formas de remuneración para las y los creadores.__
+
+Lo que los diversos actores deben hacer es adaptarse a la tecnología, en vez de solicitar la intervención desproporcionada del poder y de las leyes que va cercando cada vez más a la cultura y el conocimiento. Algunas empresas ya lo han entendido y están generando nuevos mecanismos; solo nos queda investigar si los términos de distribución cambiarán o seguirán igualmente desiguales.
+
+Otro de los mitos más es que __las barreras al acceso fomentan la innovación, ya que permitirían a investigadores y artistas explotar durante un tiempo suficiente su “trabajo” para permitirles así seguir creando.__
+Si pasamos a las obras de derecho de autor, la “protección” varía de entre 50 a 90 años después de la muerte del autor (dependiendo del país). Este último resulta a las claras excesivo, sobre todo si tenemos en cuenta que el escenario es que el autor ya falleció.
+
+Lo que ha pasado con el tiempo, es que __muchísimas obras caen en el olvido y a veces se vuelve muy difícil su recuperación__: los libros no se vuelven a editar, las canciones se olvidan, las películas grabadas sobre acetato se pudren y otros inventos suceden a los anteriores sin que se les saque el provecho necesario.
+
+__La diversidad, la apertura, la confrontación de ideas, la refutación, el examen continuo es lo que favorece la innovación: por lo tanto, una cultura de lo abierto y del Dominio Público se vuelven necesarios para garantizar la innovación, tal como funcionó la ciencia durante gran parte del Siglo XX.__
+
+Si analizas el fenómeno YouTube y los millones de prosumidores que existen y la cantidad de reproducciones que tienen ciertas obras, verás la magnitud del fenómeno, que se aparta un poco de la figura del autor profesional-individualñ. Y esto se profundiza mucho más si abres aún tu mirada al resto de Internet. Es decir la idea de la invención individual y aislada queda cada vez más diluida: somos parte de un gran cerebro humano interconectado que produce y reproduce, desde la copia y pequeños grados de innovación y peculiaridad. 
+
+Por cierto vale la pena también poner sobre el tapete lo siguiente: para salir en la radio hay que pagar. Nos guste o no nos guste, en este negocio, no siempre se benefician los mejores, sino los que mejor pagan. Los contratos con las empresas discográficas incluyen cláusulas de porcentajes de ganancias y tiempo de reproducción en radios. Es evidente que este es un sistema bastante cerrado, clasista y de difícil acceso, donde unos pocos, logran vivir de las “migajas” que las discográficas y otras empresas les permiten a través de sus contratos. Por suerte, está herido de muerte.
+
+__Por suerte Internet ha permitido abrir el espectro a nuevos creadores y creadores, a les prosumidores que ahora cuentan con muchísimas herramientas tecnológicas para crear y consumir, para dar y recibir, para comunicarse.__
+
+Hace algunos meses estuvo circulando una carta apócrifa, en la que se afirmaba que “Creative Commons es una invención de Google para perjudicar a los autores”, que es una cuestión de “imperialismo”.
+
+Sabemos que los imperialistas son justamente quienes defienden la extensión de las restricciones, que vienen camufladas dentro de los Tratados de Libre Comercio o de otros acuerdos como el TISA. Detrás de la Ley Mickey y la extensión “para siempre” de las restricciones están la MPAA, y otros grupos de poder que han visto decaer su negocio. Sobre todo esto hay mucha documentación y unas cuantas investigaciones científicas.
+
+Las teorías de la conspiración siempre son temibles, son unos memes maniqueístas que ponen todo en un tercero omnipotente. Que a Google le interese la difusión de la cultura y el conocimiento no es novedad ya que lucran con ello, pero eso no implica que mueva con hilos de titiriteros a miles de artistas, abogados y activistas a lo largo y ancho del planeta que defienden el derecho a la cultura y la cultura libre. Hay que abandonar el pensamiento unidimensional.
+
+[Tedic](https://www.tedic.org/el-meme-de-la-propiedad-intelectual/)
+
+### Sobre hombros de gigantes
+__¿Qué es el dominio público?__Las ideas, tus ideas, mis ideas, no son ni tuyas, ni mías. Todas las ideas están en __el dominio público__. La definición de dominio público, que yo voy a usar y que quiero compartir en este texto es ese  __acervo cultural común donde está toda nuestra herencia__
+
+_Técnicamente el dominio público es aquel ámbito al que vuelvenlas obras una vez que ha prescrito el monopolio de propiedad intelectual._
+Hay muchas patentes que han pasado al dominio
+público y gran parte de la innovación que tenemos hoy, de la
+que disfrutamos a partir de enormes cantidades de innovación
+tecnológica, son posibles porque hay mucha innovación
+en dominio público.
+
+__El dominio público es ese lugar al que le devolvemos las
+ideas que hemos tomado de él.__
+
+__Las ideas están en el dominio público como
+la luz. Si prendo una vela, diría Jefferson, no puedo impedirle
+a cada uno de ustedes beneficiarse con la luz de mi vela.__
+
+Ahora, ¿cuál es la preocupación? El problema es que en este
+momento de la historia ese dominio público está amenazado,
+está en peligro, está siendo restringido cada vez más por algunos
+que tienen interés en decir: __“estas ideas son mías y puedo
+excluir a todos los demás del uso de estas ideas, de estas
+expresiones, que yo he hecho”__. De este tipo de exclusiones es
+de lo que vamos a hablar cuando hablamos de los sistemas de
+propiedad intelectual.
+
+Pero ese gigante
+son todas esas otras obras que otros escribieron, esas canciones
+que otros interpretaron, esos acordes que nos legaron
+las tradiciones musicales. Todo eso contribuye a que nosotros
+hagamos una pequeña contribución. Y el que diga que contribuye
+mucho más que eso, no sabe lo que es la ciencia, ni sabe
+lo que es el arte, porque no podemos humanamente contribuir
+más que un poquito. Nuestras capacidades individuales
+de contribuir son ínfimas. Si no nos subimos a ese bagaje de
+cultura es imposible tener la cultura que tenemos hoy.
+
+Muchas veces cuando hablamos de internet,
+hablamos de querer acceder: quiero poder descargar el último
+capitulo de mi serie preferida, un libro o una canción. Eso
+es una parte, es el derecho de acceso. Yo quiero reivindicar
+otra parte de los derechos, el derecho de participación, que
+nos ubica en un lugar de acción, no sólo de consumo (aunque
+venimos muy moldeados por la cultura del broadcasting
+propia del siglo XX).
+
+En este momento, tenemos las condiciones para una cultura
+mucho más participativa, para una cultura en la cual podemos
+hacer nuestras obras y compartirlas. Podemos participar de
+un movimiento cultural mucho más diverso, montado sobre
+la idea de que la cultura la construimos entre todos.
+
+__Nosotros llamamos a que cada uno entienda las
+tecnologías y no las compre románticamente__. Las tecnologías
+tienen una cantidad de usos maravillosos pero hoy se han
+convertido en los sistemas de mayor capacidad de vigilancia
+y de control de nuestras sociedades. Debemos entenderlas
+para respetar el medio ambiente, frenar los efectos negativos
+de la vigilancia, del control, de la hiperinformación, del hiperconsumo,
+de estar cambiando el teléfono todo el tiempo
+para tener el último de moda. __Tenemos que mirarlas críticamente
+y aprender cómo funcionan, qué hacer con ellas, qué
+hacen ellas con nosotros. Tenemos que organizarnos y tenemos
+que dialogar. Tenemos que participar. Pero para participar,
+es imprescindible entender cómo funciona el mundo hoy
+y cómo funcionan estas tecnologías que nos facilitan mucho
+la participación.__
+
+Quisiera cerrar con una reflexión. Muchas veces, cuando hablamos
+de temas de propiedad intelectual, de derechos autorales,
+de dominio público, de acceso a la cultura, del derecho
+a la participación, nos preguntan “¿qué es la cultura libre?”
+Mi respuesta es: la cultura libre es la cultura, porque si la cultura
+no es libre, no es cultura.
+
 Beatriz Busaniche
+
+Es cierto que el acceso
+a Internet no está al alcance de todos y eso es un problema
+que la situación de cuarentena se encargó de poner en
+primer plano: el debate pendiente del acceso a internet como
+derecho. Quizás aquí toque hablar de la copia y del original,
+pero también es un tema que excede estas palabras. Solo
+decir que el hecho de que las copias sean exactas e idénticas al
+original digital, son la prueba de que la escasez no existe en el
+ámbito virtual.
+
+De un libro puede haber tantas copias digitales
+como copiadores haya y eso es fantástico, es la tecnología
+más potente que hayamos creado (una invención de la
+imprenta potenciada al infinito) para usar como herramienta
+de promoción de la lectura y acceso a la cultura. Esa ventana
+abrió con ella un paradigma: compartir. Por eso las redes
+sociales tienen botones expresamente pensados para que
+uno contagie, invite, obsequie, entregue, intercambie un trozo
+de conocimiento a sus vecinos de la virtualidad. Y compartir
+es la clave del conocimiento humano. En ese compartir se da
+la construcción colectiva y colaborativa del conocimiento y
+por ende, de la cultura.
+
+El segundo es que existen legislaciones que impiden esa circulación
+libre y comunitaria. Curiosamente se trata de leyes
+creadas con la misión de favorecer la circulación de la cultura
+¿? Sí.__ Las leyes de propiedad intelectual surgieron para proteger__
+a las comunidades que legislaban, para que tuvieran
+garantizado el acceso a bienes culturales a través de la protección
+económica de los autores, dándoles el derecho de hacer
+usufructo de sus creaciones durante un tiempo limitado
+para que pudieran seguir dedicándose a eso y así beneficiar
+a la comunidad con mayores bienes culturales. __Con el paso
+de los años esa protección fue desvirtuándose, alineándose
+cada vez más a los intereses de grandes corporaciones y alejándose
+de la garantía inicial de proteger a los autores.Hoy
+por hoy estas legislaciones históricas no adaptadas a estas
+épocas hablan de límites que desafían al sentido común.__ Pongo
+un solo ejemplo: ___que un docente lea en el aula a sus alumnos
+un libro completo de un autor que quiere compartir, es legal; que ese mismo docente hoy, en contexto de pandemia,
+comparta con sus alumnos a través de herramientas digitales
+(un video, un audio, un pdf) un libro completo de un autor,
+es ilegal___. No hay mucho más que agregar para hacer __evidente
+que se trata de una legislación que requiere de una revisión
+urgente, que contemple excepciones y una mirada actual de
+la creación artística y sus formas de producción y circulación.__
+
+siempre surgen
+formas creativas de encontrar nuevos caminos. En este caso
+hablo de __las Licencias Creative Commons, que son un guiño,
+una complicidad, una licencia legal y en consonancia con la ley
+de propiedad intelectual__, que permite la copia, la circulación
+y distribución libre de los contenidos, incluyendo siempre el
+crédito para los autores y brindando libertades para los lectores,
+
+> «Una herramienta legal de carácter gratuito que
+permite a los usuarios (licenciatarios) usar obras protegidas
+por derecho de autor sin solicitar el permiso del autor de la
+obra.
+
+Inicialmente, estas licencias se crearon con base en la
+legislación estadounidense y fueron portadas (adaptadas) a
+varias jurisdicciones en todo el mundo. Sin embargo, la última
+versión disponible armoniza las licencias a nivel internacional
+y se pueden utilizar en diferentes países y entre países.
+(...) Todas las licencias Creative Commons conceden ciertos
+‹derechos básicos› que incluyen el derecho a reproducir la
+obra, así como a distribuir la obra sin cargo». Estas licencias
+son la herramienta que tenemos los creadores de insertar
+en las páginas del libro un permiso por escrito de que la obra
+puede ser compartida con libertad. De acuerdo a la licencia
+incluso se pueden otorgar permisos para la generación de
+obras derivadas o usos comerciales.
+
+Atreverse a pensar nuevos modelos, desde cero, desde otras
+lógicas, animándose a poner entre paŕentesis lo que sabemos,
+es una urgencia que nos desafía principalmente a quienes
+creemos en un paradigma identificado como “cultura libre”.
+
+No me voy a tomar el tiempo aquí de detallar una falacia que
+recorre casi todas las conversaciones y debates más o menos
+aguerridos que leo cotidianamente sobre el tema: __la de que
+una copia en pdf circulando de manera no autorizada por el
+titular de los derechos es una venta menos del libro impreso.__
+Para empezar no hay estadísticas ni estudios que fundamenten
+eso, pero estoy segura que si se hicieran estudios y fuera
+serios y no predispuestos a favorecer a la falacia, los resultados
+serían los contrarios. Internet es una ventana enorme, si
+un título estuviera exhibido en todas las vidrieras, en todas
+las mesas de lectura, en todas las mesas de novedades, de todas
+las librerías, de todas las ferias y de todas las bibliotecas
+de todo el mundo, ese libro, al contrario de venderse poco, se
+vendería mucho más. __Si ese pdf que circula tuviera información
+clara de dónde se puede conseguir el material impreso y
+ese sitio fuera accesible para quien lo quiere, si los sellos tuvieran
+un modelo de negocio (a falta de mejor nombre) que
+acompañe los procesos de producción y esté atento a las necesidades
+y posibilidades de estas formas de circulación descentralizadas,
+libres y accesibles, no estaríamos hablando de
+piratería en pleno siglo XXI.__
+
+__si creemos que compartir es la base de una forma vital
+de entender que la construcción del conocimiento y la cultura
+es comunitaria y colaborativa y que por definición debe ser
+libre__; si hoy la legislación limita todo eso que creemos que es
+bueno, pero a la vez que pedimos excepciones y modificaciones
+de esas leyes, sabemos que hay herramientas como
+las licencias Creative Commons que nos dan la posibilidad de
+encontrar vías legales para compartir lo que queremos… __Entonces
+lo único que resta es animarnos a crear las condiciones
+para que existan nuevas formas de sustentabilidad para
+los artistas, autores, creadores, hacedores, más acordes con
+este paradigma de creación cultural colaborativo y libre__. Para
+que quienes hacen de este mundo un lugar mejor con sus
+historias y sus creaciones puedan vivir y seguir dedicándose
+a esa tarea reflexiva y cotidiana que nos hace mejores como
+humanidad y contribuye al tejido comunitario que sostiene
+las bases de nuestra cultura que hacemos entre todos.
+
+Barbi Couto
+
+[Sobre los hombros de un gigante](https://www.vialibre.org.ar/wp-content/uploads/2020/08/Sobre-los-hombros-de-un-gigante.pdf)
+
 
 ## ¡Lean historia!
 ## ¿Qué entendemos por "licencias permisivas"?
