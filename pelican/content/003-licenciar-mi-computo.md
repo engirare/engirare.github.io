@@ -39,41 +39,6 @@ __Estamos de acuerdo en que deben existir determinadas regulaciones, pero adecua
 
 [Radios Libres](https://radioslibres.net/26-abril-dia-de-la-propiedad-intelectual/).
 
-#### Ejemplos de creación colectiva
-
-Si estudiamos un poco la evolución de las ___impresoras 3D___ nos daremos cuenta que el desarrollo real de esta tecnología no fue cuando Chuck Hull la patentó en 1984, sino cuando proyectos abiertos como RepRap o MakerBot masificaron su uso permitiendo a miles de investigadores crear con estas nuevas herramientas.
-
-Que se lo cuenten a Guillermo Marconi que pasó a la historia como el ___inventor de la radio___ pero que no hubiera podido crear nada sin los avances científicos previos de Franklin, Faraday, Maxwell, Hertz o Tesla, entre otros muchos. [Historia de la radio](https://www.analfatecnicos.net/pregunta.php?id=12).
-
-En el año 2011 una joven rusa llamada Alexandra Elbakyan creó la plataforma __Sci-Hub__ donde se encuentran millones de artículos académicos liberados. Hasta la Revista Nature la nombró como una de las diez personas más destacadas del mundo de la ciencia en 2016.
-
-El actual sistema de propiedad intelectual. Este marco regulatorio ha permitido que el maíz originario mexicano casi haya desaparecido en detrimento del transgénico de la empresa Monsanto. 
-
-«James Watt inventó la máquina de vapor en 1769», supuestamente inspirado por haber observado salir el vapor por el pitorro de una tetera. Ésta maravillosa fábula queda desmentida por la realidad de que Watt concibió la idea de su propia máquina de vapor mientras procedía a reparar un modelo de la máquina de vapor de Newcomen, que éste había inventado 57 años antes y de la que ya se habían fabricado más de cien en Inglaterra para la fecha en que Watt realizara su tarea de reparación. A su vez, la máquina de Newcomen siguió a la que el inglés Thomas Savery había patentado en 1698, que vino después de la diseñada por el francés Denis Papin hacia 1680 (pero que no fue construida). Ésta tuvo precursores en las ideas del científico holandés Christiaan Huygens y otros.
-
-En la música por ejemplo, los artistas suelen ser influidos por otros y muchas veces toman partes enteras de melodías, sin explicitarlo. Te recomendamos documentales que lo demuestran claramente: el primero plantea la re-mezcla como nueva forma de producción a la vez que cuenta cómo nuestros grandes ídolos de la música se copian entre sí: [“RiP! – A Remix Manifesto”](https://www.youtube.com/watch?v=SfM0i8Pvdjc). El segundo es [“Todo es un Remix”](https://www.youtube.com/watch?v=Q-I5m3Sl_Gk) en el que se explora este concepto a fondo proponiendo muchísimos ejemplos con los que te quedarás de boca abierta.
-
-No me voy a tomar el tiempo aquí de detallar una falacia que
-recorre casi todas las conversaciones y debates más o menos
-aguerridos que leo cotidianamente sobre el tema: __la de que
-una copia en pdf circulando de manera no autorizada por el
-titular de los derechos es una venta menos del libro impreso.__
-Para empezar no hay estadísticas ni estudios que fundamenten
-eso, pero estoy segura que si se hicieran estudios y fuera
-serios y no predispuestos a favorecer a la falacia, los resultados
-serían los contrarios. Internet es una ventana enorme, si
-un título estuviera exhibido en todas las vidrieras, en todas
-las mesas de lectura, en todas las mesas de novedades, de todas
-las librerías, de todas las ferias y de todas las bibliotecas
-de todo el mundo, ese libro, al contrario de venderse poco, se
-vendería mucho más. __Si ese pdf que circula tuviera información
-clara de dónde se puede conseguir el material impreso y
-ese sitio fuera accesible para quien lo quiere, si los sellos tuvieran
-un modelo de negocio (a falta de mejor nombre) que
-acompañe los procesos de producción y esté atento a las necesidades
-y posibilidades de estas formas de circulación descentralizadas,
-libres y accesibles, no estaríamos hablando de
-piratería en pleno siglo XXI.__
 
 
 
@@ -98,6 +63,8 @@ Software que requiere ___permiso de uso___ trae consigo problematicas de que en 
 Hay que re-pensar el licenciamiento que le damos a nuestras obras una vez que las hacemos y terminamos.
 
 El copyright no permite circular el conocimiento de manera tan abierta y libre. No podemos acceder a obras que fueron hechas incluso con dinero público.
+
+## ¿Qué entendemos por "licencias permisivas"?
 
 Ante este panorama: 
 
@@ -169,7 +136,8 @@ Las teorías de la conspiración siempre son temibles, son unos memes maniqueís
 
 [Tedic](https://www.tedic.org/el-meme-de-la-propiedad-intelectual/)
 
-### Sobre hombros de gigantes
+### Sobre hombros de gigantes 
+Beatriz Busaniche y Barbi Couto
 __¿Qué es el dominio público?__Las ideas, tus ideas, mis ideas, no son ni tuyas, ni mías. Todas las ideas están en __el dominio público__. La definición de dominio público, que yo voy a usar y que quiero compartir en este texto es ese  __acervo cultural común donde está toda nuestra herencia__
 
 _Técnicamente el dominio público es aquel ámbito al que vuelvenlas obras una vez que ha prescrito el monopolio de propiedad intelectual._
@@ -244,7 +212,7 @@ a la participación, nos preguntan “¿qué es la cultura libre?”
 Mi respuesta es: la cultura libre es la cultura, porque si la cultura
 no es libre, no es cultura.
 
-Beatriz Busaniche
+
 
 Es cierto que el acceso
 a Internet no está al alcance de todos y eso es un problema
@@ -293,6 +261,7 @@ que se trata de una legislación que requiere de una revisión
 urgente, que contemple excepciones y una mirada actual de
 la creación artística y sus formas de producción y circulación.__
 
+## 5 modelos de licencias ejemplo: creative commons
 siempre surgen
 formas creativas de encontrar nuevos caminos. En este caso
 hablo de __las Licencias Creative Commons, que son un guiño,
@@ -365,17 +334,313 @@ a esa tarea reflexiva y cotidiana que nos hace mejores como
 humanidad y contribuye al tejido comunitario que sostiene
 las bases de nuestra cultura que hacemos entre todos.
 
-Barbi Couto
-
 [Sobre los hombros de un gigante](https://www.vialibre.org.ar/wp-content/uploads/2020/08/Sobre-los-hombros-de-un-gigante.pdf)
+
+### Hecho con creative commons
+
+Los comunes, el mercado y el Estado
+
+__Históricamente, han habido tres formas de gestionar recursos y compartir
+riquezas: los comunes__ (gestionados de forma colectiva), __el Estado__ (esto es, el
+gobierno) __y el mercado__ —con los dos últimos siendo hoy las formas dominantes.
+
+Para comparar y contrastar las formas en las que los comunes, el mercado y
+el Estado trabajan,__consideremos cuatro aspectos de la gestión de recursos: características
+del recurso, las personas involucradas y los procesos que siguen,
+las normas y reglas que desarrollan para gobernar el uso y__, finalmente, __el uso
+real del recurso junto con los resultados de ese uso__ 
+
+__Los recursos físicos se tienen en cantidades limitadas. Si yo tengo un recurso
+físico y se lo doy a otra persona, yo ya no lo tengo más.__ Cuando un recurso se
+retira y se usa, la disponibilidad total se reduce o agota. La escasez puede resultar en una rivalidad competitiva por el recurso. Las empresas Hechas con
+Creative Commons, por lo general, se basan en medios digitales, pero algunos
+de nuestros casos de estudio también producen recursos en forma física. __Los
+costos de producir y distribuir un bien físico, casi siempre, requieren que se
+involucren con el mercado.__
+__Los recursos físicos son agotables, exclusivos y rivales. Los recursos digitales
+no. Si yo comparto un recurso digital con alguna persona, ambos tenemos
+el recurso. Dárselo a alguien no significa que yo ya no lo tenga.__ Los recursos
+digitales pueden ser almacenados, copiados y distribuidos de forma infinita sin
+agotarse, y a un costo cercano a cero. __La abundancia, es una característica
+inherente de los recursos digitales.__
+__La naturaleza no agotable, no exclusiva y no rival de los recursos digitales
+significa que las reglas y normas para gestionarlos pueden (y deben) ser diferentes
+a la gestión de los recursos físicos.__ Sin embargo, éste no es siempre el
+caso. __Los recursos digitales con frecuencia se hacen escasear de forma artificial.
+Poner recursos digitales en los comunes los hace libres y abundantes.__
+
+__Por lo que respecta a los comunes, el objetivo es maximizar acceso, equidad,
+distribución, participación, innovación y sostenibilidad. Se puede medir el éxito
+observando cuántas personas accesan y usan un recurso;__ cómo es la distribución
+de usuarios a través de género, ingresos, y ubicación; __si una comunidad
+se está formando para extender y mejorar los recursos;__ y __si los recursos están
+siendo usados de formas innovadoras para beneficio personal y social.__
+Como combinaciones híbridas de comunes con el mercado o Estado,
 
 
 ## ¡Lean historia!
-## ¿Qué entendemos por "licencias permisivas"?
-## 5 modelos de licencias ejemplo
+#### Una corta historia de los comunes
+
+Usar los comunes para gestionar recursos es parte de un largo continuo
+histórico. Sin embargo, en la sociedad contemporánea, el mercado y el Estado
+dominan el discurso sobre cuál es la mejor manera de gestionar los recursos.
+Es raro que los comunes siquiera se consideren como una opción. Los comunes
+han desaparecido de la conciencia y consideración en gran parte. No hay
+reportes noticiosos o discursos acerca de los comunes.
+
+Pero los más de 1 100 millones de recursos licenciados con Creative Commons
+alrededor del mundo son indicadores de un movimiento de las bases hacia
+los comunes, los cuales están resurgiendo. Para entender su resiliencia y
+comprender su actual renovación, es útil saber algo de su historia.
+
+Por siglos, las personas indígenas de las sociedades preindustrializadas gestionaron
+recursos de forma colectiva como comunes, incluyendo agua, comida,
+leña, irrigación, pesca, caza, y muchas otras cosas.10 No había mercado, ni economía
+global. El Estado, los soberanos, influenciaban a los comunes, pero de
+ninguna forma los controlaban. La participación social directa en los comunes
+era la forma principal con la cuál se gestionaban los recursos y se satisfacían
+las necesidades
+
+A esto le sigue una larga historia del Estado (un monarca o soberano) tomando
+control sobre los comunes para sus propios propósitos. __A esto se le llama
+cercamiento de los comunes.__ Antiguamente, los “comuneros” eran desalojados
+de la tierra, se levantaban vallas y cercas, se aprobaban leyes y se vigilaba
+el espacio para prohibir el acceso.12 De forma gradual, los recursos se volvieron
+propiedad del Estado y éste se volvió la forma principal mediante la cual
+los recursos se gestionaban.
+
+La tenencia de la tierra, el agua y la caza eran distribuidas a la familia gobernante
+y políticos designados. Las masas desplazadas de la tierra migraron
+a las ciudades. Con el surgimiento de la Revolución industrial, la tierra y los
+recursos se volvieron bienes que se vendían a negocios para soportar la producción.
+Las monarquías evolucionaron a parlamentos elegidos. Las masas se
+volvieron trabajadores ganando dinero a cambio de la operación de maquinaria
+industrial. Leyes financieras, de negocios y de propiedad fueron revisadas por
+los gobiernos para apoyar a mercados, crecimiento y productividad. La figura
+1.6 muestra cómo hoy el mercado es el medio principal por el cual los recursos
+son gestionados.
+
+__Sin embargo, el mundo de hoy está atravesando tiempos turbulentos. Los
+beneficios del mercado se han contrarrestado por la distribución desigual y la
+sobreexplotación.__
+El tema del influyente ensayo de __Garret Hardin, La tragedia de los comunes__,
+publicado en la revista Science en 1968, es precisamente la sobreexplotación.
+Hardin argumenta que, en los comunes, todos buscan maximizar la ganancia
+personal y continuar haciéndolo incluso cuando se alcanzan los límites de los
+comunes. Éste es entonces trágicamente agotado, al punto en el que ya no puede
+soportar a nadie. __El ensayo de Hardin se volvió aceptado de forma extensa
+como cierto y una justificación para la propiedad privada y el libre mercado.
+Sin embargo, hay una seria falla en La tragedia de los comunes de Hardin:
+es ficticia.__ Hardin en realidad no estudió cómo funcionan los comunes reales.
+__Elinor Ostrom ganó el Premio Nobel de Economía de 2009 por estudiar diferentes
+comunes alrededor del mundo.__ El trabajo de Ostrom mostró que los
+recursos naturales de los comunes pueden ser gestionados de forma exitosa
+por comunidades locales sin ninguna regulación por parte de autoridades centrales
+y sin privatización. El gobierno y la privatización no son las únicas dos
+opciones. __Hay una tercera forma: gestión por las personas, donde aquellas que
+son impactadas de forma directa están involucradas de forma directa.__ Con recursos
+naturales, hay una localidad regional. __Las personas en la región están
+más familiarizadas con el recurso natural, tienen la relación más directa e historia
+compartida y, por lo tanto, son las mejor situadas para gestionarlos. El
+enfoque de Ostrom hacia la gobernanza de los recursos naturales rompió con
+la convención; ella reconoció la importancia de los comunes como una alternativa
+al mercado o Estado para solucionar problemas de acción colectiva.__
+
+__Hardin omitió considerar la dinámica social actual de los comunes. Su modeló
+asumió que la gente en los comunes actúa de forma autónoma, por puro
+egoísmo, sin interacción o consideración de otros. Pero como Ostrom encontró,
+en realidad, gestionar recursos de los comunes en conjunto forma una comunidad
+y fomenta la discusión.__ Esto naturalmente genera normas y reglas que
+ayudan a las personas a trabajar de forma colectiva y asegurar unos comunes
+sostenibles. De forma paradójica, mientras el ensayo de Hardi se llamó La
+tragedia de los comunes, este pudo haberse titulado de forma más precisa La
+tragedia del mercado.
+
+__La historia de Hardin se basa en la premisa de recursos agotables. Los economistas
+se han enfocado casi exclusivamente en los mercados basados en la
+escasez. Muy poco se sabe acerca de cómo funciona la abundancia.__ El surgimiento
+de información tecnológica e Internet ha llevado a una explosión en
+recursos digitales y a nuevos medios para compartir y distribuir. Los recursos
+digitales no se pueden agotar jamás. Sin embargo, __la ausencia de un modelo
+teórico de cómo funciona la abundancia ha llevado al mercado a hacer que
+los recursos digitales sean artificialmente escasos y que sea posible aplicar las
+normas y reglas usuales del mercado.__
+
+Pero, cuando se trata de usar los fondos del Estado para crear bienes digitales,
+en realidad no hay justificación para la escasez artificial. La norma de los
+trabajos digitales financiados por el Estado debería ser que estén disponibles
+de forma libre y abierta para el público que pagó por ellos.
+
+#### La revolución digital
+
+__En los primeros días de la computación, programadores y desarrolladores
+aprendieron unos de otros compartiendo programas. En los años ochenta, el
+movimiento de software libre codificó esta práctica de compartir en un conjunto
+de principios y libertades:__
+* La libertad de ejecutar un programa de software de la forma en que desee,
+para cualquier propósito.
+* La libertad de estudiar cómo funciona un programa de software (porque
+el acceso al código fuente ha sido dado de forma libre), y modificarlo para
+que realice el cómputo como lo requiera cada quién.
+* La libertad de redistribuir copias.
+* La libertad de distribuir a otras personas copias de versiones modificadas.
+
+__Estos principios y libertades constituyen un conjunto de normas y reglas que
+tipifican a los comunes digitales.__
+
+A finales de los años noventa, para hacer del acto de compartir código fuente
+y de la colaboración más algo atractivo para las compañías, la iniciativa de
+programas de código abierto (Open Source Initiative) convirtió estos principios
+en licencias y estándares para gestionar el acceso y la distribución de programas.
+Los beneficios del código abierto —tales como confiabilidad, escalabilidad
+y calidad verificada por revisión de pares independientes—, se volvieron ampliamente
+reconocidos y aceptados. __A los clientes les gustaba la forma en que
+el código abierto les daba el control sin quedarse encerrados en tecnología privativa
+y cerrada. Los programas de código abierto y libre también generaron
+un efecto de red en donde el valor de un producto o servicio incrementa con el
+número de personas usándolo.__ El drástico crecimiento de la misma Internet
+le debe mucho al hecho de que nadie tenía un candado propietario sobre los
+protocolos centrales de Internet.
+__Al tiempo que los programas de código abierto funcionan como comunes,
+muchos negocios y mercados se construyeron a su alrededor. Los modelos de
+negocio basados en licencias y estándares de programas de código abierto evolucionaron
+junto con organizaciones que gestionaron el código de programas
+bajo principios de abundancia en lugar de escasez.__ El ensayo de Eric Raymond
+“El caldero mágico” hace un gran trabajo al analizar la economía y los modelos
+de negocio asociados a los programas de código abierto.17 Estos modelos
+pueden brindar ejemplos de enfoques sostenibles para aquellos Hechos con
+Creative Commons.
+__No se trata únicamente de la abundancia de la disponibilidad de activos digitales,
+sino también acerca de la abundancia de la participación.__ El aumento
+del personal de computación, información tecnológica, y de Internet ha hecho
+posible la participación masiva en la producción de trabajos creativos y la distribución
+de éstos. Las fotos, libros, música y muchas otras formas de contenidos
+digitales pueden ahora ser fácilmente creados y distribuidos por casi cualquiera.
+__A pesar de este potencial de abundancia, estos trabajos digitales por defecto
+están gobernados por leyes de derechos de autor. Bajo dicho marco normativo,
+un trabajo digital es la propiedad del creador y, por ley, otras personas están
+excluidas para obtenerlo y usarlo sin el permiso del creador.__
+
+
+
+__Pero a las personas les gusta compartir. Una de las formas en las que nos
+definimos a nosotros mismos es compartiendo contenido valioso y entretenido.__
+Hacer esto aumenta y nutre las relaciones, busca cambiar opiniones, impulsa la
+acción e informa a __otras personas acerca de quiénes somos y qué nos importa.
+Compartir nos hace sentir más involucrados con el mundo__
+
+__En 2001, Creative Commons se creó como una organización sin fines de lucro
+para apoyar a todas aquellas personas que quería compartir contenidos
+digitales.__ Una serie de __licencias Creative Commons se modelaron siguiendo las
+de software de código abierto, pero para ser usadas con contenidos digitales,
+en lugar de código de programas.__ Las licencias le dan a todo el mundo, desde
+creadores individuales hasta grandes compañías e instituciones, una forma
+sencilla y estándar de conceder permisos de derechos de autor a su trabajo
+creativo.
+
+__En 2015, había más de 1 000 millones de trabajos licenciados bajo Creative
+Commons en los comunes globales.__ Estos trabajos fueron vistos en línea
+136 000 millones de veces. Las personas están usando licencias Creative Commons
+alrededor del mundo, en 34 idiomas. Estos recursos incluyen fotos, trabajos
+artísticos, artículos de investigación en revistas, recursos educativos, música
+y otros tipos de audio y vídeos.
+
+__Algunas personas ven a Creative Commons como una forma de compartir
+un regalo con otras, una forma de hacerse conocidas, o una forma de brindar
+beneficio social.__ Otras simplemente están comprometidas a las normas asociadas
+con los comunes. Y para algunas, la participación ha sido estimulada por
+el movimiento de cultura libre, un movimiento social que promueve la libertad
+de distribuir y modificar trabajos creativos. El movimiento de cultura libre ve
+a los comunes como algo que brinda beneficios significativos comparado con
+las leyes de derechos de autor. __Esta ética del intercambio libre en los comunes
+alinea al movimiento de cultura libre con el del software libre y de código
+abierto.__
+A lo largo del tiempo, Creative Commons ha estimulado una amplia variedad
+de movimientos abiertos, incluyendo recursos educativos abiertos, acceso
+abierto, ciencia abierta y datos abiertos. El objetivo en cada caso ha sido democratizar
+la participación y compartir recursos digitales sin costo, con permisos
+legales para que cualquier persona pueda accesar, usar y modificar de forma
+libre.
+El Estado está involucrándose cada vez más en apoyar los movimientos
+abiertos. La Asociación de Gobierno Abierto (Open Government Partnership)
+fue lanzada en 2011 para brindar una plataforma internacional para que los
+gobiernos se vuelvan más abiertos, que rindan mejor cuentas y den una respuesta
+más oportuna a sus ciudadanos. Desde entonces ha crecido de ocho
+países participantes a 70.21 En todos estos países, el gobierno y la sociedad
+civil están trabajando juntos para desarrollar e implementar reformas ambiciosas
+de gobierno abierto. __Los gobiernos están adoptando Creative Commons
+cada vez más para asegurar que los trabajos financiados con dinero de los contribuyentes
+sean abiertos y libres para el público que pagó por ellos.__
+
+
+Una forma en la que los casos de estudio de Hecho con Creative Commons
+se diferencian de aquellos de la economía compartida es en su enfoque en los
+recursos digitales.__Éstos funcionan bajo reglas económicas diferentes a las físicas.
+En un mundo en el que los precios siempre parecen subir, la tecnología
+de la información es una anomalía.__
+
+
+
           - GPL
           - BSD
           - Apache
           - WTFPL
           - Creative Commons
         - Creación técnica / Artística.
+
+
+#### Ejemplos de creación colectiva
+
+Si estudiamos un poco la evolución de las ___impresoras 3D___ nos daremos cuenta que el desarrollo real de esta tecnología no fue cuando Chuck Hull la patentó en 1984, sino cuando proyectos abiertos como RepRap o MakerBot masificaron su uso permitiendo a miles de investigadores crear con estas nuevas herramientas.
+
+Que se lo cuenten a Guillermo Marconi que pasó a la historia como el ___inventor de la radio___ pero que no hubiera podido crear nada sin los avances científicos previos de Franklin, Faraday, Maxwell, Hertz o Tesla, entre otros muchos. [Historia de la radio](https://www.analfatecnicos.net/pregunta.php?id=12).
+
+En el año 2011 una joven rusa llamada Alexandra Elbakyan creó la plataforma __Sci-Hub__ donde se encuentran millones de artículos académicos liberados. Hasta la Revista Nature la nombró como una de las diez personas más destacadas del mundo de la ciencia en 2016.
+
+El actual sistema de propiedad intelectual. Este marco regulatorio ha permitido que el maíz originario mexicano casi haya desaparecido en detrimento del transgénico de la empresa Monsanto. 
+
+«James Watt inventó la máquina de vapor en 1769», supuestamente inspirado por haber observado salir el vapor por el pitorro de una tetera. Ésta maravillosa fábula queda desmentida por la realidad de que Watt concibió la idea de su propia máquina de vapor mientras procedía a reparar un modelo de la máquina de vapor de Newcomen, que éste había inventado 57 años antes y de la que ya se habían fabricado más de cien en Inglaterra para la fecha en que Watt realizara su tarea de reparación. A su vez, la máquina de Newcomen siguió a la que el inglés Thomas Savery había patentado en 1698, que vino después de la diseñada por el francés Denis Papin hacia 1680 (pero que no fue construida). Ésta tuvo precursores en las ideas del científico holandés Christiaan Huygens y otros.
+
+En la música por ejemplo, los artistas suelen ser influidos por otros y muchas veces toman partes enteras de melodías, sin explicitarlo. Te recomendamos documentales que lo demuestran claramente: el primero plantea la re-mezcla como nueva forma de producción a la vez que cuenta cómo nuestros grandes ídolos de la música se copian entre sí: [“RiP! – A Remix Manifesto”](https://www.youtube.com/watch?v=SfM0i8Pvdjc). El segundo es [“Todo es un Remix”](https://www.youtube.com/watch?v=Q-I5m3Sl_Gk) en el que se explora este concepto a fondo proponiendo muchísimos ejemplos con los que te quedarás de boca abierta.
+
+No me voy a tomar el tiempo aquí de detallar una falacia que
+recorre casi todas las conversaciones y debates más o menos
+aguerridos que leo cotidianamente sobre el tema: __la de que
+una copia en pdf circulando de manera no autorizada por el
+titular de los derechos es una venta menos del libro impreso.__
+Para empezar no hay estadísticas ni estudios que fundamenten
+eso, pero estoy segura que si se hicieran estudios y fuera
+serios y no predispuestos a favorecer a la falacia, los resultados
+serían los contrarios. Internet es una ventana enorme, si
+un título estuviera exhibido en todas las vidrieras, en todas
+las mesas de lectura, en todas las mesas de novedades, de todas
+las librerías, de todas las ferias y de todas las bibliotecas
+de todo el mundo, ese libro, al contrario de venderse poco, se
+vendería mucho más. __Si ese pdf que circula tuviera información
+clara de dónde se puede conseguir el material impreso y
+ese sitio fuera accesible para quien lo quiere, si los sellos tuvieran
+un modelo de negocio (a falta de mejor nombre) que
+acompañe los procesos de producción y esté atento a las necesidades
+y posibilidades de estas formas de circulación descentralizadas,
+libres y accesibles, no estaríamos hablando de
+piratería en pleno siglo XXI.__
+
+
+“El caldero mágico” hace un gran trabajo al analizar la economía y los modelos
+de negocio asociados a los programas de código abierto.17 Estos modelos
+pueden brindar ejemplos de enfoques sostenibles para aquellos Hechos con
+Creative Commons.
+
+
+8New York Times Customer Insight Group,[The Psychology of Sharing: Why Do People Share
+Online? (New York: New York Times Customer Insight Group, 2011)],(http://www.iab.net/media/
+file/POSWhitePaper.pdf.)
+
+El Estado está involucrándose cada vez más en apoyar los movimientos
+abiertos. __La Asociación de Gobierno Abierto (Open Government Partnership)
+fue lanzada en 2011 para brindar una plataforma internacional para que los
+gobiernos se vuelvan más abiertos__, que rindan mejor cuentas y den una respuesta
+más oportuna a sus ciudadanos. Desde entonces ha crecido de ocho
+países participantes a 70.21 En todos estos países, el gobierno y la sociedad
+civil están trabajando juntos para desarrollar e implementar reformas ambiciosas
+de gobierno abierto. 
