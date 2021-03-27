@@ -1,15 +1,18 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
+from __future__ import unicode_literals
 
-AUTHOR = 'engirare'
-SITENAME = 'Blog de EngiRare'
-SITEURL = ''
+AUTHOR = u'engirare'
+SITENAME = u'Blog de EngiRare'
+#SITEURL = ''
 
 PATH = 'content'
+OUTPUT_PATH = './../'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Mexico_City'
 
-DEFAULT_LANG = 'es'
+
+DEFAULT_LANG = u'es'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -19,16 +22,16 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+#LINKS = (('Pelican', 'https://getpelican.com/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Twitter', 'https://twitter.com/engirare'),
+          ('GitHub', 'https://github.com/engirare'),
+          ('Instagram', 'https://www.instagram.com/engi.rare/'),)
 
 DEFAULT_PAGINATION = 7
+
+TYPOGRIFY = True
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
