@@ -32,7 +32,15 @@ DEFAULT_LANG = u'es'
 THEME = u'Flex'
 
 
+# Default theme language.
+I18N_TEMPLATES_LANG = 'es'
 
+# Your language.
+DEFAULT_LANG = 'es_ES'
+
+# Match languages for other configs.
+OG_LOCALE = 'es_ES'
+LOCALE = ('es_ES', 'es_ES.utf8')
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
