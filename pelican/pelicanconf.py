@@ -6,8 +6,7 @@ from datetime import datetime
 AUTHOR = u'engirare'
 SITENAME = u'Blog de EngiRare'
 
-#SITESUBTITLE = "No compi"
-SITEDESCRIPTION = "Ingeniería y rara."
+SITESUBTITLE = 'Notas de una ingeniera rara <br> aprendiendo'
 #SITEURL = ''
 BROWSER_COLOR = "#31C0AF"
 PYGMENTS_STYLE = "monokai"
