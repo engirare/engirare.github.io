@@ -13,6 +13,7 @@
                 <nav><ul>
                     <li><a href="/category/automatizacion.html">Automatización</a></li>
                     <li class="active"><a href="/category/blog.html">Blog</a></li>
+                    <li><a href="/category/blog-software-libre.html">Blog, Software Libre</a></li>
                     <li><a href="/category/ingeniera.html">Ingeniera</a></li>
                     <li><a href="/category/software-libre.html">Software Libre</a></li>
                 </ul></nav>
@@ -20,61 +21,9 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="/hola-mundo-libre.html">Hola mundo libre</a></h1>
+                    <h1 class="entry-title"><a href="/hola-mundo.html">Hola&nbsp;mundo</a></h1>
 <footer class="post-info">
-        <abbr class="published" title="2021-03-21T14:20:00+01:00">
-                Published: Sun 21 March 2021
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="/author/engirare.html">engirare</a>
-        </address>
-<p>In <a href="/category/blog.html">Blog</a>.</p>
-
-</footer><!-- /.post-info --><p>Y pues, nada, aquí batallando con reencontrar mi lado libre y todo eso, dejaré una lista de comandos útiles por aquí, la borro pronto, cuando esto este mejor organizado:</p>
-<div class="highlight"><pre><span></span><code><span class="n">sudo</span><span class="w"> </span><span class="n">su</span><span class="w"></span>
-<span class="k">update</span><span class="o">-</span><span class="n">alternatives</span><span class="w"> </span><span class="o">--</span><span class="n">install</span><span class="w"> </span><span class="o">/</span><span class="n">usr</span><span class="o">/</span><span class="n">bin</span><span class="o">/</span><span class="n">python</span><span class="w"> </span><span class="n">python</span><span class="w"> </span><span class="o">/</span><span class="n">usr</span><span class="o">/</span><span class="n">bin</span><span class="o">/</span><span class="n">python3</span><span class="w"> </span><span class="mi">1</span><span class="w"></span>
-<span class="k">exit</span><span class="w"></span>
-
-<span class="n">sudo</span><span class="w"> </span><span class="n">apt</span><span class="w"> </span><span class="k">get</span><span class="w"> </span><span class="k">update</span><span class="w"></span>
-<span class="n">sudo</span><span class="w"> </span><span class="n">apt</span><span class="w"> </span><span class="k">get</span><span class="w"> </span><span class="n">upgrade</span><span class="w"></span>
-
-<span class="n">sudo</span><span class="w"> </span><span class="n">apt</span><span class="w"> </span><span class="n">install</span><span class="w"> </span><span class="n">virtualenv</span><span class="w"></span>
-
-<span class="n">virtualenv</span><span class="w"> </span><span class="o">-</span><span class="n">p</span><span class="w"> </span><span class="n">python3</span><span class="w"> </span><span class="k">try</span><span class="w"></span>
-<span class="n">cd</span><span class="w"> </span><span class="k">try</span><span class="w"></span>
-<span class="n">source</span><span class="w"> </span><span class="n">bin</span><span class="o">/</span><span class="n">activate</span><span class="w"></span>
-<span class="n">python</span><span class="w"> </span><span class="o">--</span><span class="n">version</span><span class="w"></span>
-<span class="n">sudo</span><span class="w"> </span><span class="n">apt</span><span class="w"> </span><span class="n">install</span><span class="w"> </span><span class="n">python</span><span class="o">-</span><span class="n">pip</span><span class="w"></span>
-<span class="n">pip</span><span class="w"> </span><span class="n">install</span><span class="w"> </span><span class="n">pelican</span><span class="w"> </span><span class="n">Markdown</span><span class="w"> </span><span class="n">typogrify</span><span class="w"></span>
-<span class="n">pip</span><span class="w"> </span><span class="n">install</span><span class="w"> </span><span class="o">--</span><span class="n">upgrade</span><span class="w"> </span><span class="n">pelican</span><span class="w"> </span><span class="n">Markdown</span><span class="w"> </span><span class="n">typogrify</span><span class="w"></span>
-<span class="n">pelican</span><span class="w"> </span><span class="n">content</span><span class="w"> </span>
-<span class="n">pelican</span><span class="w"> </span><span class="o">--</span><span class="n">listen</span><span class="w"> </span>
-<span class="nl">http</span><span class="p">:</span><span class="o">//</span><span class="nl">localhost</span><span class="p">:</span><span class="mi">8000</span><span class="o">/</span><span class="w"></span>
-<span class="n">sudo</span><span class="w"> </span><span class="n">apt</span><span class="w"> </span><span class="n">install</span><span class="w"> </span><span class="n">git</span><span class="w"></span>
-<span class="n">git</span><span class="w"> </span><span class="n">clone</span><span class="w"> </span><span class="nl">https</span><span class="p">:</span><span class="o">//</span><span class="n">github</span><span class="p">.</span><span class="n">com</span><span class="o">/</span><span class="n">engirare</span><span class="o">/</span><span class="n">engirare</span><span class="p">.</span><span class="n">github</span><span class="p">.</span><span class="n">io</span><span class="w"></span>
-<span class="n">git</span><span class="w"> </span><span class="n">config</span><span class="w"> </span><span class="o">--</span><span class="k">global</span><span class="w"> </span><span class="k">user</span><span class="p">.</span><span class="n">name</span><span class="w"> </span><span class="ss">&quot;engirare&quot;</span><span class="w"></span>
-<span class="n">git</span><span class="w"> </span><span class="n">config</span><span class="w"> </span><span class="o">--</span><span class="k">global</span><span class="w"> </span><span class="k">user</span><span class="p">.</span><span class="n">email</span><span class="w"> </span><span class="ss">&quot;engirare@tutanota.com&quot;</span><span class="w"></span>
-<span class="n">git</span><span class="w"> </span><span class="n">status</span><span class="w"></span>
-<span class="n">git</span><span class="w"> </span><span class="k">add</span><span class="w"> </span><span class="o">--</span><span class="ow">all</span><span class="w"></span>
-<span class="n">git</span><span class="w"> </span><span class="k">commit</span><span class="w"> </span><span class="o">-</span><span class="n">m</span><span class="w"> </span><span class="err">“</span><span class="n">aquí</span><span class="w"> </span><span class="n">va</span><span class="w"> </span><span class="n">un</span><span class="w"> </span><span class="n">mensaje</span><span class="err">”</span><span class="w"></span>
-<span class="n">git</span><span class="w"> </span><span class="n">push</span><span class="w"></span>
-</code></pre></div>                </article>
-            </aside><!-- /#featured -->
-                <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="/hola-mundo.html" rel="bookmark"
-                           title="Permalink to Hola mundo">Hola mundo</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2021-03-19T21:20:00+01:00">
+        <abbr class="published" title="2021-03-19T21:20:00-06:00">
                 Published: Fri 19 March 2021
         </abbr>
 
@@ -83,28 +32,18 @@
         </address>
 <p>In <a href="/category/blog.html">Blog</a>.</p>
 
-</footer><!-- /.post-info -->                <p>Me presento, soy EngiRare. Que viene de Engineer y Rare. Vaya, mi imaginación vino a desfalcar a Bella cuando decidió ponerle a su hija Renésme (x.x jahja). ¿Por qué en inglés? Porque Rare es el álbum que me acompaño en mi proceso de cambio <em>(in the middle of pandemic …</em></p>
-                <a class="readmore" href="/hola-mundo.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-                </ol><!-- /#posts-list -->
-                </section><!-- /#content -->
+</footer><!-- /.post-info --><p>Me presento, soy EngiRare. Que viene de Engineer y Rare. Vaya, mi imaginación vino a desfalcar a Bella cuando decidió ponerle a su hija Renésme (x.x jahja). ¿Por qué en inglés? Porque Rare es el álbum que me acompaño en mi proceso de cambio <em>(in the middle of pandemic)</em> y quería mantenerlo así, como un guiño, aunque bueno, si lo prefieres, tú que estás leyendo esto, puedes llamarme IngeRara, porque eso soy, ingeniosa y rara y mantendremos comunicación en español&nbsp;(¿espanglish?).</p>
+<p>Realmente tengo intereses muy variados, pero intentaré mantener la temática del sitio escribiendo aquí sobre temas de mi profesión. Soy <strong>(casi*)</strong> ingeniera eléctrica electrónica y después de un par de eventos fortuitos he decido usar mis saberes de la ingeniería para “salvar el mundo”, que bueno, hay tanto de que salvar el mundo que es necesario decir en cuál línea quiere hacerlo una. Yo decidí usar la ingeniería para reducir el impacto del <span class="caps">CO2</span>, en particular trabajando con residuos. Por eso no dudes que de repente se torne medio ambientalista el&nbsp;espacio..</p>
+<p>Y pues bueno, sin más que decir doy por inaugurado este espacio&nbsp;(:</p>                </article>
+            </aside><!-- /#featured -->
         <section id="extras" class="body">
-                <div class="blogroll">
-                        <h2>links</h2>
-                        <ul>
-                            <li><a href="https://getpelican.com/">Pelican</a></li>
-                            <li><a href="https://www.python.org/">Python.org</a></li>
-                            <li><a href="https://palletsprojects.com/p/jinja/">Jinja2</a></li>
-                            <li><a href="#">You can modify those links in your config file</a></li>
-                        </ul>
-                </div><!-- /.blogroll -->
                 <div class="social">
                         <h2>social</h2>
                         <ul>
 
-                            <li><a href="#">You can add links in your config file</a></li>
-                            <li><a href="#">Another social link</a></li>
+                            <li><a href="https://twitter.com/engirare">Twitter</a></li>
+                            <li><a href="https://github.com/engirare">GitHub</a></li>
+                            <li><a href="https://www.instagram.com/engi.rare/">Instagram</a></li>
                         </ul>
                 </div><!-- /.social -->
         </section><!-- /#extras -->
