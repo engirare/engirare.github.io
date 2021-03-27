@@ -1,10 +1,18 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+from datetime import datetime
 
 AUTHOR = u'engirare'
 SITENAME = u'Blog de EngiRare'
+
+#SITESUBTITLE = "No compi"
+SITEDESCRIPTION = "Ingeniería y rara."
 #SITEURL = ''
+BROWSER_COLOR = "#31C0AF"
+PYGMENTS_STYLE = "monokai"
+
+ROBOTS = "index, follow"
 
 PATH = 'content'
 OUTPUT_PATH = './../'
@@ -14,30 +22,17 @@ TIMEZONE = 'America/Mexico_City'
 
 DEFAULT_LANG = u'es'
 
-ARCHIVES_SAVE_AS = ''
-AUTHOR_SAVE_AS = ''
-AUTHORS_SAVE_AS = ''
-CATEGORY_SAVE_AS = ''
-CATEGORIES_SAVE_AS = ''
-TAGS_SAVE_AS = ''
+#ARCHIVES_SAVE_AS = ''
+#AUTHOR_SAVE_AS = ''
+#AUTHORS_SAVE_AS = ''
+#CATEGORY_SAVE_AS = ''
+#CATEGORIES_SAVE_AS = ''
+#TAGS_SAVE_AS = ''
 
 
-THEME = u'MinimalXY'
-# Theme customizations
-MINIMALXY_CUSTOM_CSS = 'static/custom.css'
-MINIMALXY_FAVICON = 'favicon.ico'
-#MINIMALXY_START_YEAR = 2009
-#MINIMALXY_CURRENT_YEAR = date.today().year
+THEME = u'Flex'
 
-# Author
-AUTHOR_INTRO = u'Hola mundo soy EngiRare.'
-AUTHOR_DESCRIPTION = u'Quiero salvar el mundo, apoyandome de la ingeniería y enfocandome en los residuos'
-AUTHOR_AVATAR = 'http://www.gravatar.com/avatar/abcdefghijkl?s=240'
-AUTHOR_WEB = 'http://engirare.com'
 
-# Services
-#GOOGLE_ANALYTICS = 'UA-12345678-9'
-#DISQUS_SITENAME = 'johndoe'
 
 
 # Feed generation is usually not desired when developing
@@ -50,20 +45,43 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 #LINKS = (('Pelican', 'https://getpelican.com/'),)
 
+USE_FOLDER_AS_CATEGORY = False
+MAIN_MENU = True
+HOME_HIDE_TAGS = True
+
+MENUITEMS = (
+    ("Archives", "/archives.html"),
+    ("Categories", "/categories.html"),
+    ("Tags", "/tags.html"),
+)
+
+CC_LICENSE = {
+    "name": "Creative Commons Attribution-ShareAlike 4.0 International License",
+    "version": "4.0",
+    "slug": "by-sa",
+    "icon": True,
+    "language": "es",
+}
+
+COPYRIGHT_YEAR = datetime.now().year
+
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/engirare'),
           ('GitHub', 'https://github.com/engirare'),
           ('Instagram', 'https://www.instagram.com/engi.rare/'),)
 
+
+
 # Menu
-MENUITEMS = (
-    ('Categories', '/' + CATEGORIES_SAVE_AS),
-    ('Archive', '/' + ARCHIVES_SAVE_AS),
-)
 
 DEFAULT_PAGINATION = 7
 
 TYPOGRIFY = True
+
+THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
+THEME_COLOR_ENABLE_USER_OVERRIDE = True
+
+USE_LESS = True
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
