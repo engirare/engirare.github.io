@@ -40,6 +40,13 @@ http://localhost:8000/
 git add --all
 git commit -m 'aquí va un mensaje'
 git push
+
+cd ..
+cd ..
+git clone --recursive 
+https://github.com/alexandrevicenzi/Flex
+pelican-themes --install ../../Flex/
+pelican-themes --list
 ~~~~
 
 
