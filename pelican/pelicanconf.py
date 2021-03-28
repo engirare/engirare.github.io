@@ -6,12 +6,10 @@ from datetime import datetime
 AUTHOR = u'engirare'
 SITENAME = u'Blog de EngiRare'
 
-SITESUBTITLE = 'Notas de una ingeniera rara <br> aprendiendo'
+BIO = 'Notas de una ingeniera rara <br> aprendiendo'
 #SITEURL = ''
-BROWSER_COLOR = "#31C0AF"
-PYGMENTS_STYLE = "monokai"
 
-ROBOTS = "index, follow"
+
 
 PATH = 'content'
 OUTPUT_PATH = './../'
@@ -21,26 +19,11 @@ TIMEZONE = 'America/Mexico_City'
 
 DEFAULT_LANG = u'es'
 
-#ARCHIVES_SAVE_AS = ''
-#AUTHOR_SAVE_AS = ''
-#AUTHORS_SAVE_AS = ''
-#CATEGORY_SAVE_AS = ''
-#CATEGORIES_SAVE_AS = ''
-#TAGS_SAVE_AS = ''
 
 
-THEME = u'Flex'
+THEME = u'pelican-hyde'
 
 
-# Default theme language.
-I18N_TEMPLATES_LANG = 'es'
-
-# Your language.
-DEFAULT_LANG = 'es_ES'
-
-# Match languages for other configs.
-OG_LOCALE = 'es_ES'
-LOCALE = ('es_ES', 'es_ES.utf8')
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -53,14 +36,16 @@ AUTHOR_FEED_RSS = None
 #LINKS = (('Pelican', 'https://getpelican.com/'),)
 
 USE_FOLDER_AS_CATEGORY = False
-MAIN_MENU = True
+#MAIN_MENU = True
 HOME_HIDE_TAGS = True
+DISPLAY_PAGES_ON_MENU = True
 
 MENUITEMS = (
     ("Archives", "/archives.html"),
     ("Categories", "/categories.html"),
     ("Tags", "/tags.html"),
 )
+COLOR_THEME= '0c'
 
 CC_LICENSE = {
     "name": "Creative Commons Attribution-ShareAlike 4.0 International License",
@@ -85,10 +70,6 @@ DEFAULT_PAGINATION = 7
 
 TYPOGRIFY = True
 
-THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
-THEME_COLOR_ENABLE_USER_OVERRIDE = True
-
-USE_LESS = True
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
