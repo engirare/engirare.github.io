@@ -1,6 +1,15 @@
 Title: Aprendiendo sobre generadores eléctricos
 Date: 2021-03-26 10:50
-Category: Ingeniera
+Modified: 2021-03-26 10:50
+Tags: Ingeniería eléctrica,Generar energía
+Keywords: blog,engirare,lista,recursos,generadores,eléctricos,grupos,electrógenos,sincronización,mantemiento,componentes,diseño
+Category: Ingeniería eléctrica
+Author: Engirare
+Summary: Como hice explicito en varios prefiles, estoy aprendiendo sobre generadores eléctricos.. aquí enlisto recursos útiles sobre ellos (:
+Lang: es-MX
+Translation: false
+Status: published
+
 
 Como hice explicito en varios prefiles, estoy aprendiendo sobre generadores eléctricos, porque voy a participar en un proyecto que los incluye de dos formas. La primera, como fuente principal de una nave industrial. La segunda, como planta de emergencia de esa nave industrial.
 
@@ -14,18 +23,17 @@ A todo esto, espero seguir completando este resumen en entradas posteriores o en
 
 El listado tendrá el siguiente formato: - _Nombre de la página dónde encontré el recurso_, _Nombre del recurso y su link_, _Fecha de último acceso que tuve al recurso_.
 
+- [x] Generac Latam, [Mantenimiento de generadores: Sistemas de lubricación, refrigeración y baterías](https://generac.wistia.com/medias/leiecf9can?utm_campaign=webinars&utm_content=139039903&utm_medium=social&utm_source=facebook&hss_channel=fbp-570470542992633), 2021-03-26
+- [ ] Generac Latam, [Power Desing Pro: ¿Cómo dimensionar un generador de energía?](https://generac.wistia.com/medias/oa4r9jvg7i?utm_content=137314854&utm_medium=social&utm_source=facebook&hss_channel=fbp-570470542992633), 2021-03-26
+- [ ] Generac Latam, [¿Qué respaldo de energía requiere un Data Center?](https://generac.wistia.com/medias/7p5y9tgius), 2021-03-26
+- [ ] Generac Latam, [Soluciones de energía para cortes programados ](https://generac.wistia.com/medias/sg2twfo486?utm_campaign=webinars&utm_content=147947975&utm_medium=social&utm_source=facebook&hss_channel=fbp-570470542992633), 2021-03-26
+- [ ] Generac Latam, [Código de Red: Auditorías y Plan de trabajo CRE](https://generac.wistia.com/medias/6ueczreahv?utm_campaign=webinars&utm_content=125131632&utm_medium=social&utm_source=facebook&hss_channel=fbp-570470542992633), 2021-03-26
+- [ ] Generac Latam, [Subestaciones Compactas en Media Tensión](https://generac.wistia.com/medias/6d9lmdtraq?utm_campaign=FMB%20-%20FEBRERO%202021&utm_content=154683719&utm_medium=social&utm_source=linkedin&hss_channel=lcp-9323109), 2021-03-26
+- [ ] Generac Latam, [Mantenimiento preventivo para generadores](https://generac.wistia.com/medias/tz83liutkv?utm_campaign=webinars&utm_content=133196988&utm_medium=social&utm_source=facebook&hss_channel=fbp-570470542992633), 2021-03-26
+- [ ] Generac Latam, [Conceptos básicos de sincronía y paralelismo](https://generac.wistia.com/medias/j0gk6fjkk9?utm_content=145050280&utm_medium=social&utm_source=facebook&hss_channel=fbp-570470542992633), 2021-03-26
+- [ ] Generac Latam, [Generadores a Gas: instalación y principales aplicaciones](https://generac.wistia.com/medias/33l47qbcsm), 2021-03-26
+- [ ] Generac Latam, [Energía para el hogar en tiempos de contingencia](https://generac.wistia.com/medias/yrkutsy6ac?utm_campaign=webinars&utm_content=141457787&utm_medium=social&utm_source=facebook&hss_channel=fbp-570470542992633), 2021-03-26
+- [ ] Generac Latam, [Tablero de transferencias y aplicaciones](https://generac.wistia.com/medias/q4s2bw88xc?utm_campaign=webinars&utm_content=128603270&utm_medium=social&utm_source=facebook&hss_channel=fbp-570470542992633), 2021-03-26
 
-- Generac Latam, [Power Desing Pro: ¿Cómo dimensionar un generador de energía?](https://generac.wistia.com/medias/oa4r9jvg7i?utm_content=137314854&utm_medium=social&utm_source=facebook&hss_channel=fbp-570470542992633), 2021-03-26
-- Generac Latam, [¿Qué respaldo de energía requiere un Data Center?](https://generac.wistia.com/medias/7p5y9tgius), 2021-03-26
-- Generac Latam, [Soluciones de energía para cortes programados ](https://generac.wistia.com/medias/sg2twfo486?utm_campaign=webinars&utm_content=147947975&utm_medium=social&utm_source=facebook&hss_channel=fbp-570470542992633), 2021-03-26
-- Generac Latam, [Código de Red: Auditorías y Plan de trabajo CRE](https://generac.wistia.com/medias/6ueczreahv?utm_campaign=webinars&utm_content=125131632&utm_medium=social&utm_source=facebook&hss_channel=fbp-570470542992633), 2021-03-26
-- Generac Latam, [Subestaciones Compactas en Media Tensión](https://generac.wistia.com/medias/6d9lmdtraq?utm_campaign=FMB%20-%20FEBRERO%202021&utm_content=154683719&utm_medium=social&utm_source=linkedin&hss_channel=lcp-9323109), 2021-03-26
-- Generac Latam, [Mantenimiento de generadores: Sistemas de lubricación, refrigeración y baterías](https://generac.wistia.com/medias/leiecf9can?utm_campaign=webinars&utm_content=139039903&utm_medium=social&utm_source=facebook&hss_channel=fbp-570470542992633), 2021-03-26
-- Generac Latam, [Mantenimiento preventivo para generadores](https://generac.wistia.com/medias/tz83liutkv?utm_campaign=webinars&utm_content=133196988&utm_medium=social&utm_source=facebook&hss_channel=fbp-570470542992633), 2021-03-26
-- Generac Latam, [Conceptos básicos de sincronía y paralelismo](https://generac.wistia.com/medias/j0gk6fjkk9?utm_content=145050280&utm_medium=social&utm_source=facebook&hss_channel=fbp-570470542992633), 2021-03-26
-- Generac Latam, [Generadores a Gas: instalación y principales aplicaciones](https://generac.wistia.com/medias/33l47qbcsm), 2021-03-26
-- Generac Latam, [Energía para el hogar en tiempos de contingencia](https://generac.wistia.com/medias/yrkutsy6ac?utm_campaign=webinars&utm_content=141457787&utm_medium=social&utm_source=facebook&hss_channel=fbp-570470542992633), 2021-03-26
-- Generac Latam, [Tablero de transferencias y aplicaciones](https://generac.wistia.com/medias/q4s2bw88xc?utm_campaign=webinars&utm_content=128603270&utm_medium=social&utm_source=facebook&hss_channel=fbp-570470542992633), 2021-03-26
-- Generac Latam, [¿Qué respaldo de energía requiere un Data Center?](https://generac.wistia.com/medias/7p5y9tgius), 2021-03-26
 
 Nos vemos pronto (:

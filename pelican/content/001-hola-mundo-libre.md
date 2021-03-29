@@ -1,10 +1,16 @@
 Title: Hola mundo libre
 Date: 2021-03-21 14:20
-Category: Software Libre
+Modified: 2021-03-28 21:20
+Tags: Software libre
+Keywords: blog,engirare,pelican,virtualenv,ghp,github,pages 
+Category: Cultura y software libre
+Author: Engirare
+Summary: Aquí batallando con reencontrar mi lado libre y todo eso.. hice una lista de comandos que uso para mi blog (:
+Lang: es-MX
+Translation: false
+Status: published
 
-Y pues, nada, aquí batallando con reencontrar mi lado libre y todo eso, dejaré una lista de comandos útiles por aquí, la borro pronto, cuando esto este mejor organizado:
-
- 	
+Y pues, nada, aquí batallando con reencontrar mi lado libre y todo eso, dejaré una lista de comandos útiles por aquí, la edito pronto, cuando esto este mejor organizado:
 
 ~~~~
 
@@ -35,7 +41,7 @@ cd pelican
 pelican content -o ..
 pelican --listen -o .. 
 
-http://localhost:8000/
+localhost:8000/
 
 git add --all
 git commit -m 'aquí va un mensaje'
@@ -43,10 +49,21 @@ git push
 
 cd ..
 cd ..
-git clone --recursive 
-https://github.com/jvanz/pelican-hyde
+git clone --recursive https://github.com/jvanz/pelican-hyde
 pelican-themes --install pelican-hyde
 pelican-themes --list
+
+dig WWW.EXAMPLE.COM +nostats +nocomments +nocmd
+    > ;WWW.EXAMPLE.COM.                     IN      A
+    > WWW.EXAMPLE.COM.              3592    IN      CNAME   YOUR-USERNAME.github.io.
+    > YOUR-USERNAME.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
+    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
+
+$ dig EXAMPLE.COM +noall +answer
+> EXAMPLE.COM     3600    IN A     185.199.108.153
+> EXAMPLE.COM     3600    IN A     185.199.109.153
+> EXAMPLE.COM     3600    IN A     185.199.110.153
+> EXAMPLE.COM     3600    IN A     185.199.111.153
 ~~~~
 
 

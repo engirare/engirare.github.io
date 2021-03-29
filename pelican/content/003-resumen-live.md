@@ -1,6 +1,15 @@
 Title: Mi primera aparición en público
 Date: 2021-03-22 22:15
-Category: Automatización
+Modified: 2021-03-22 22:15
+Tags: Blog,Automatización,Cultura libre,Software libre
+Keywords: blog,engirare
+Category: Blog
+Author: Engirare
+Summary: Oficialmente terminé mi primera transmisión en vivo.. aquí describo mi sentir después de vivirla..
+Lang: es-MX
+Translation: false
+Status: published
+
 
 Oficialmente terminé mi primera transmisión en vivo, fue.. novedoso.. mejoraré. Dice mi amiga que fue mi preparación a mi examen profesional. __NI DE BROMA.__
 

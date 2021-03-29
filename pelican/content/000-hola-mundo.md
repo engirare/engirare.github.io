@@ -1,6 +1,14 @@
 Title: Hola mundo
 Date: 2021-03-19 21:20
+Modified: 2021-03-19 21:20
+Tags: Blog,Contact
+Keywords: blog,engirare
 Category: Blog
+Author: Engirare
+Summary: Me presento, soy EngiRare. Que viene de Engineer y Rare... y aquí doy por inaugurado este espacio (:
+Lang: es-MX
+Translation: false
+Status: published
 
 
 Me presento, soy EngiRare. Que viene de Engineer y Rare. Vaya, mi imaginación vino a desfalcar a Bella cuando decidió ponerle a su hija Renésme (x.x jahja). ¿Por qué en inglés? Porque Rare es el álbum que me acompaño en mi proceso de cambio _(in the middle of pandemic)_ y quería mantenerlo así, como un guiño, aunque bueno, si lo prefieres, tú que estás leyendo esto, puedes llamarme IngeRara, porque eso soy, ingeniosa y rara y mantendremos comunicación en español (¿espanglish?).

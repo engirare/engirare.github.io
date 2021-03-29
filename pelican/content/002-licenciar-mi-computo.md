@@ -1,6 +1,15 @@
 Title: Licenciar mi computo
 Date: 2021-03-21 18:00
-Category: Software Libre
+Modified: 2021-03-21 18:00
+Tags: Software libre,Cultura libre
+Keywords: blog,engirare,creative,commons,derecho,autor,cultura,libre,propiedad,intelectual,comunes,creación,colectiva
+Category: Cultura y software libre
+Author: Engirare
+Summary:  Mañana estaré presente en un live.. aquí dejo un resumen sobre cultura libre (:
+Lang: es-MX
+Translation: false
+Status: published
+
 
 Con la novedad de que mañana estoy presente en un live. Haré un pequeño resumen de los temas que se van a tocar para estar más tranquila.
 

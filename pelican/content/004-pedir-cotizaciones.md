@@ -1,6 +1,15 @@
 Title: Pedir cotizaciones
-Date: 2021-03-22 22:15 
-Category: Ingeniera
+Date: 2021-03-22 22:15
+Modified: 2021-03-22 22:15
+Tags: Blog
+Keywords: blog,engirare,tips,cotizar,cotización,recomendaciones,RFQ,RFI,RFP
+Category: Blog
+Author: Engirare
+Summary: Llevo casi dos meses cotizando plantas de emergencia.. y aquí te doy algunas recomendaciones para cotizar equipos (:
+Lang: es-MX
+Translation: false
+Status: published
+
 
 Llevo casi dos meses cotizando plantas de emergencia y en estos días he aprendido bastante al respecto (de cotizar).
 
