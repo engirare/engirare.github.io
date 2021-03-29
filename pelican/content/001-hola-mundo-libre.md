@@ -1,6 +1,6 @@
 Title: Hola mundo libre
 Date: 2021-03-21 14:20
-Category: Blog, Software Libre
+Category: Software Libre
 
 Y pues, nada, aquí batallando con reencontrar mi lado libre y todo eso, dejaré una lista de comandos útiles por aquí, la borro pronto, cuando esto este mejor organizado:
 
@@ -44,8 +44,8 @@ git push
 cd ..
 cd ..
 git clone --recursive 
-https://github.com/alexandrevicenzi/Flex
-pelican-themes --install ../../Flex/
+https://github.com/jvanz/pelican-hyde
+pelican-themes --install pelican-hyde
 pelican-themes --list
 ~~~~
 

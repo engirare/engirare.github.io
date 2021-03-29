@@ -6,7 +6,8 @@ from datetime import datetime
 AUTHOR = u'engirare'
 SITENAME = u'Blog de EngiRare'
 
-BIO = 'Notas de una ingeniera rara <br> aprendiendo'
+
+BIO = 'Notas de una ingeniera rara <br> aprendiendo..'
 #SITEURL = ''
 
 
@@ -47,20 +48,14 @@ MENUITEMS = (
 )
 COLOR_THEME= '0c'
 
-CC_LICENSE = {
-    "name": "Creative Commons Attribution-ShareAlike 4.0 International License",
-    "version": "4.0",
-    "slug": "by-sa",
-    "icon": True,
-    "language": "es",
-}
 
-COPYRIGHT_YEAR = datetime.now().year
+FOOTER_TEXT = 'Creative Commons Attribution-ShareAlike 4.0 International License'
 
+#datetime.now().year + 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/engirare'),
-          ('GitHub', 'https://github.com/engirare'),
-          ('Instagram', 'https://www.instagram.com/engi.rare/'),)
+SOCIAL = (('twitter', 'https://twitter.com/engirare'),
+          ('github', 'https://github.com/engirare'),
+          ('instagram', 'https://www.instagram.com/engi.rare/'),)
 
 
 
@@ -70,6 +65,8 @@ DEFAULT_PAGINATION = 7
 
 TYPOGRIFY = True
 
+STATIC_PATHS = ['images']
+PROFILE_IMAGE = 'logo.png'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

@@ -4,7 +4,7 @@ Category: Software Libre
 
 Con la novedad de que mañana estoy presente en un live. Haré un pequeño resumen de los temas que se van a tocar para estar más tranquila.
 
- ## Qué y por qué del derecho de autor. ¿Por qué nos interesa?
+## Qué y por qué del derecho de autor. ¿Por qué nos interesa?
 
 ### Día de la propiedad intelectual 
 
