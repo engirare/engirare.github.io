@@ -1,3 +1,4 @@
+---
 Title: Licenciar mi computo
 Date: 2021-03-21 18:00
 Modified: 2021-03-21 18:00
@@ -9,7 +10,7 @@ Summary:  Mañana estaré presente en un live.. aquí dejo un resumen sobre cult
 Lang: es-MX
 Translation: false
 Status: published
-
+---
 
 Con la novedad de que mañana estoy presente en un live. Haré un pequeño resumen de los temas que se van a tocar para estar más tranquila.
 

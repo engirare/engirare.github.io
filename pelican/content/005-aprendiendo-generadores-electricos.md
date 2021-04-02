@@ -1,3 +1,4 @@
+---
 Title: Aprendiendo sobre generadores eléctricos
 Date: 2021-03-26 10:50
 Modified: 2021-03-26 10:50
@@ -9,7 +10,7 @@ Summary: Como hice explicito en varios prefiles, estoy aprendiendo sobre generad
 Lang: es-MX
 Translation: false
 Status: published
-
+---
 
 Como hice explicito en varios prefiles, estoy aprendiendo sobre generadores eléctricos, porque voy a participar en un proyecto que los incluye de dos formas. La primera, como fuente principal de una nave industrial. La segunda, como planta de emergencia de esa nave industrial.
 

@@ -1,3 +1,4 @@
+---
 Title: Mi primera aparición en público
 Date: 2021-03-22 22:15
 Modified: 2021-03-22 22:15
@@ -9,7 +10,7 @@ Summary: Oficialmente terminé mi primera transmisión en vivo.. aquí describo 
 Lang: es-MX
 Translation: false
 Status: published
-
+---
 
 Oficialmente terminé mi primera transmisión en vivo, fue.. novedoso.. mejoraré. Dice mi amiga que fue mi preparación a mi examen profesional. __NI DE BROMA.__
 

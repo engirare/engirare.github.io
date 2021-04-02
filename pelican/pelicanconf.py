@@ -7,7 +7,7 @@ AUTHOR = u'engirare'
 SITENAME = u'Blog de EngiRare'
 
 
-BIO = 'Notas de una ingeniera rara <br> aprendiendo..'
+BIO = 'Notas de una ingeniera rara <br> ¡Aprende conmigo!'
 #SITEURL = ''
 
 
@@ -22,7 +22,7 @@ DEFAULT_LANG = u'es'
 
 
 
-THEME = u'pelican-hyde'
+THEME = u'pelican-hyde-spanish-local'
 
 
 
@@ -42,8 +42,8 @@ HOME_HIDE_TAGS = True
 DISPLAY_PAGES_ON_MENU = True
 
 MENUITEMS = (
-    ("Archives", "/archives.html"),
-    ("Categories", "/categories.html"),
+    ("Archivo", "/archives.html"),
+    ("Categorías", "/categories.html"),
     ("Tags", "/tags.html"),
 )
 COLOR_THEME= '0c'
@@ -55,7 +55,8 @@ FOOTER_TEXT = 'Creative Commons Attribution-ShareAlike 4.0 International License
 # Social widget
 SOCIAL = (('twitter', 'https://twitter.com/engirare'),
           ('github', 'https://github.com/engirare'),
-          ('instagram', 'https://www.instagram.com/engi.rare/'),)
+          ('instagram', 'https://www.instagram.com/engi.rare/'),
+          ('envelope', 'engirare@tutanota.com'),)
 
 
 

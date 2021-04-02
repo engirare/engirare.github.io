@@ -1,3 +1,4 @@
+---
 Title: Pedir cotizaciones
 Date: 2021-03-22 22:15
 Modified: 2021-03-22 22:15
@@ -9,7 +10,7 @@ Summary: Llevo casi dos meses cotizando plantas de emergencia.. y aquí te doy a
 Lang: es-MX
 Translation: false
 Status: published
-
+---
 
 Llevo casi dos meses cotizando plantas de emergencia y en estos días he aprendido bastante al respecto (de cotizar).
 

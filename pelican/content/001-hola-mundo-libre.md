@@ -1,3 +1,4 @@
+---
 Title: Hola mundo libre
 Date: 2021-03-21 14:20
 Modified: 2021-03-28 21:20
@@ -9,7 +10,7 @@ Summary: Aquí batallando con reencontrar mi lado libre y todo eso.. hice una li
 Lang: es-MX
 Translation: false
 Status: published
-
+---
 Y pues, nada, aquí batallando con reencontrar mi lado libre y todo eso, dejaré una lista de comandos útiles por aquí, la edito pronto, cuando esto este mejor organizado:
 
 ~~~~
