@@ -65,6 +65,19 @@ $ dig EXAMPLE.COM +noall +answer
 > EXAMPLE.COM     3600    IN A     185.199.109.153
 > EXAMPLE.COM     3600    IN A     185.199.110.153
 > EXAMPLE.COM     3600    IN A     185.199.111.153
+
+# show metadata of a image file
+exiftool myPhoto.jpg
+
+# remove all metadata of all *jpg files in current dir
+exiftool -all= -overwrite_original -ext jpg .
+
+# remove all metadata of a image file
+exiftool -all= -overwrite_original photo.jpg
+
+# remove all GPS metadata of *jpg files in current dir
+exiftool -gps:all= *.jpg
+
 ~~~~
 
 
