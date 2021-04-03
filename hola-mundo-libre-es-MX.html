@@ -69,7 +69,7 @@
 				<i class="fa fa-rss"></i>
 			</a>
 		</nav>
-			<p class="sidebar-footer">Creative Commons Attribution-ShareAlike 4.0 International License</p>
+			<p class="sidebar-footer">Creative Commons Attribution-ShareAlike 4.0 International License  <br> <small> Powered by: <a href="https://blog.getpelican.com/">Pelican</a> Theme: <a href="https://github.com/jvanz/pelican-hyde">pelican-hyde</a> </small></p>
 	</div>
 </div>		<div class="content container">
 <div class="post">
@@ -139,6 +139,42 @@
 <span class="c1"># remove all GPS metadata of *jpg files in current dir</span>
 <span class="n">exiftool</span> <span class="o">-</span><span class="n">gps</span><span class="p">:</span><span class="n">all</span><span class="o">=</span> <span class="o">*.</span><span class="n">jpg</span>
 </code></pre></div>
+
+<hr>
+<h5>i.&nbsp;Language</h5>
+<p>Either choose language as per your preference or press ‘1’ to proceed with&nbsp;default</p>
+<h5>ii. Number of console&nbsp;columns</h5>
+<p>Either choose number of console columns as per your preference or press ‘1’ to proceed with&nbsp;default</p>
+<h5>iii. Time&nbsp;zone</h5>
+<p>Either choose time zone as per your preference or press ‘1’ to proceed with&nbsp;default</p>
+<h5>iv. Other&nbsp;Options</h5>
+<p><del> Specifically choose ‘5’ – ‘from=usb’ to Finish Booting from a LiveUSB </del></p>
+<p>Aquí, en la versión que yo descargué, estaba en la opción&nbsp;‘7’</p>
+<h5>v. Persistence&nbsp;Option</h5>
+<p><del> Specifically choose ‘2’ – ‘persist_all’ to save root and home </del></p>
+<p>Esta fue la opción que más lata me dio. En la versión más reciente al elegir la opción ‘persist all’ cuando se tiene que crear el <code>roots file</code> te dice que no puede hacerlo&nbsp;x_x. </p>
+<p><img alt="why?" src="/images/rootMX.jpg"></p>
+<p>Yo probé varías opciones y de mis pruebas finalmente al elegir la opción ‘persist root’ fue la que me funcionó. Sigo sin entender por qué los archivos se guardan si por el menú yo entendí que los archivos en home se iban a borrar. <em>Nota mental: revisar en cuanto sea posible con mis&nbsp;amikes.</em></p>
+<h5>vi. Font&nbsp;Size</h5>
+<p>Either choose font size as per your preference or press ‘1’ to proceed with&nbsp;default</p>
+<h5>vii. Create rootfs&nbsp;file</h5>
+<p><del> Specifically choose ‘1’ – ‘create automatically’. Wait for the rootfs file to be created. </del></p>
+<p>En mis pruebas nunca funcionó, lo que me funcionó fue dar la opción 2, y elegir el valor más alto que me&nbsp;permitía.</p>
+<h5>viii. Create homefs&nbsp;file</h5>
+<p><del> Specifically choose ‘1’ – ‘create automatically’. Wait for the homefs file to be created. </del></p>
+<p>Esto nunca ocurrio en la opción de persistencia que&nbsp;elegí.</p>
+<h5>ix. Save these&nbsp;changes</h5>
+<p>Specifically choose ‘1’ – ‘Yes’ to save the changes made to the boot&nbsp;configuration.</p>
+<p>Al guardar me pregunto si quería hacer <code>swipe</code>, en dos ocasiones yo di que sí, y el sistema se volvió la cosa más lenta del mundo. En la ocasión que dije que no, eso no ocurrió, leyendo el manual de <span class="caps">MX</span> Linux, en una parte mencionan que con esa opción se vuelven más lentos los discos, yo se lo atribuyo, pero no sé explicar por qué. <em>Nota mental: revisar en cuanto sea posible con mis&nbsp;amikes.</em></p>
+<h5>x. Change ‘root’ user&nbsp;password</h5>
+<p>Type and re-type a new and secure password to change the default root user&nbsp;password.</p>
+<h5>xi. Change ‘demo’ user&nbsp;password</h5>
+<p>Type and re-type a new and secure password to change the default demo user&nbsp;password.</p>
+<h5>xii. Auto Save&nbsp;Mode</h5>
+<p>Specifically choose ‘1’ – ‘Automatic’ to save on shutdown/ reboot automatically without need to ask for saving data every&nbsp;time.</p>
+<p>Yo aquí elegí la opción semi-automatica, pero sigo evaluando si mejor lo cambio a&nbsp;automática.</p>
+<p>Finally, the <span class="caps">MX</span> Linux persistent session will load from Flash&nbsp;Drive.</p>
+<hr>
 </div>
 		</div>
 	</body>

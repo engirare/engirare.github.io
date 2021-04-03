@@ -81,3 +81,73 @@ exiftool -gps:all= *.jpg
 ~~~~
 
 
+_____
+##### i. Language
+
+Either choose language as per your preference or press ‘1’ to proceed with default
+
+##### ii. Number of console columns
+
+Either choose number of console columns as per your preference or press ‘1’ to proceed with default
+
+##### iii. Time zone
+
+Either choose time zone as per your preference or press ‘1’ to proceed with default
+
+##### iv. Other Options
+
+<del> Specifically choose ‘5’ – ‘from=usb’ to Finish Booting from a LiveUSB </del>
+
+Aquí, en la versión que yo descargué, estaba en la opción ‘7’
+
+##### v. Persistence Option
+
+<del> Specifically choose ‘2’ – ‘persist_all’ to save root and home </del>
+
+Esta fue la opción que más lata me dio. En la versión más reciente al elegir la opción ‘persist all’ cuando se tiene que crear el `roots file` te dice que no puede hacerlo  x_x. 
+
+
+![why?]({attach}/images/rootMX.jpg)
+
+ Yo probé varías opciones y de mis pruebas finalmente al elegir la opción ‘persist root’ fue la que me funcionó. Sigo sin entender por qué los archivos se guardan si por el menú yo entendí que los archivos en home se iban a borrar. _Nota mental: revisar en cuanto sea posible con mis amikes._
+
+##### vi. Font Size
+
+Either choose font size as per your preference or press ‘1’ to proceed with default
+
+##### vii. Create rootfs file
+
+<del> Specifically choose ‘1’ – ‘create automatically’. Wait for the rootfs file to be created. </del>
+
+En mis pruebas nunca funcionó, lo que me funcionó fue dar la opción 2, y elegir el valor más alto que me permitía.
+
+##### viii. Create homefs file
+
+<del> Specifically choose ‘1’ – ‘create automatically’. Wait for the homefs file to be created. </del>
+
+Esto nunca ocurrio en la opción de persistencia que elegí.
+
+##### ix. Save these changes
+
+Specifically choose ‘1’ – ‘Yes’ to save the changes made to the boot configuration.
+
+Al guardar me pregunto si quería hacer `swipe`, en dos ocasiones yo di que sí, y el sistema se volvió la cosa más lenta del mundo. En la ocasión que dije que no, eso no ocurrió, leyendo el manual de MX Linux, en una parte mencionan que con esa opción se vuelven más lentos los discos, yo se lo atribuyo, pero no sé explicar por qué. _Nota mental: revisar en cuanto sea posible con mis amikes._
+ 
+
+##### x. Change ‘root’ user password
+
+Type and re-type a new and secure password to change the default root user password.
+
+##### xi. Change ‘demo’ user password
+
+Type and re-type a new and secure password to change the default demo user password.
+
+##### xii. Auto Save Mode
+
+Specifically choose ‘1’ – ‘Automatic’ to save on shutdown/ reboot automatically without need to ask for saving data every time.
+
+Yo aquí elegí la opción semi-automatica, pero sigo evaluando si mejor lo cambio a automática.
+
+Finally, the MX Linux persistent session will load from Flash Drive.
+____
+

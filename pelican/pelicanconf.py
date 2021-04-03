@@ -49,7 +49,7 @@ MENUITEMS = (
 COLOR_THEME= '0c'
 
 
-FOOTER_TEXT = 'Creative Commons Attribution-ShareAlike 4.0 International License'
+FOOTER_TEXT = 'Creative Commons Attribution-ShareAlike 4.0 International License  <br> <small> Powered by: <a href="https://blog.getpelican.com/">Pelican</a> Theme: <a href="https://github.com/jvanz/pelican-hyde">pelican-hyde</a> </small>'
 
 #datetime.now().year + 
 # Social widget
