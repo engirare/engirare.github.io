@@ -9,7 +9,7 @@ Author: Engirare
 Summary: Llevo casi dos meses cotizando plantas de emergencia.. y aquí te doy algunas recomendaciones para cotizar equipos (:
 Lang: es-MX
 Translation: false
-Status: published
+Status: draft
 ---
 
 Llevo casi dos meses cotizando plantas de emergencia y en estos días he aprendido bastante al respecto (de cotizar).

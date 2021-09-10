@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="es" prefix="og: http://ogp.me/ns#">
+	<head>
+		<link href="http://gmpg.org/xfn/11" rel="profile">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+		<!-- Metadata -->
+	<meta name="description" content="Notas de una ingeniera rara <br> ¡Aprende conmigo!">
+	<meta property="og:description" content="Notas de una ingeniera rara <br> ¡Aprende conmigo!">
+	<meta property="og:title" content="Hola mundo&nbsp;libre" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="/drafts/hola-mundo-libre-es-MX.html" />
+		<meta property="og:image" content="/images/logo.png" />
+
+		<!-- Enable responsiveness on mobile devices-->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+		<title>Blog de EngiRare</title>
+
+		<!-- CSS -->
+		<link href="//fonts.googleapis.com/" rel="dns-prefetch">
+		<link href="//fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic|Abril+Fatface|PT+Sans:400,400italic,700&amp;subset=latin,latin-ext" rel="stylesheet">
+
+		<link rel="stylesheet" href="/theme/css/poole.css" />
+		<link rel="stylesheet" href="/theme/css/hyde.css" />
+		<link rel="stylesheet" href="/theme/css/syntax.css" />
+			<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.1.7/css/fork-awesome.min.css" crossorigin="anonymous">
+
+		<!-- Feeds -->
+
+		<!-- Analytics -->
+	</head>
+
+	<body class="theme-base-0c">
+<div class="sidebar">
+	<div class="container sidebar-sticky">
+		<div class="sidebar-about">
+
+			<h1>
+				<a href="/">
+					<img class="profile-picture" src="/images/logo.png">
+					Blog de EngiRare
+				</a>
+			</h1>
+			<p class="lead"></p>
+			<p class="lead">Notas de una ingeniera rara <br> ¡Aprende conmigo! </p>
+			<p></p>
+		</div>
+			<ul class="sidebar-nav">
+					<li><a href="/archives.html">Archivo</a></li>
+					<li><a href="/categories.html">Categorías</a></li>
+					<li><a href="/tags.html">Tags</a></li>
+			</ul>
+		<nav class="sidebar-social">
+					<a class="sidebar-social-item" href="https://twitter.com/engirare" target="_blank">
+						<i class="fa fa-twitter"></i>
+					</a>
+					<a class="sidebar-social-item" href="https://github.com/engirare" target="_blank">
+						<i class="fa fa-github"></i>
+					</a>
+					<a class="sidebar-social-item" href="https://www.instagram.com/engi.rare/" target="_blank">
+						<i class="fa fa-instagram"></i>
+					</a>
+					<a class="sidebar-social-item" href="engirare@tutanota.com" target="_blank">
+						<i class="fa fa-envelope"></i>
+					</a>
+			<a class="sidebar-social-item" href="/">
+				<i class="fa fa-rss"></i>
+			</a>
+		</nav>
+			<p class="sidebar-footer">Creative Commons Attribution-ShareAlike 4.0 International License  <br> <small> Powered by: <a href="https://blog.getpelican.com/">Pelican</a> Theme: <a href="https://github.com/jvanz/pelican-hyde">pelican-hyde</a> </small></p>
+	</div>
+</div>		<div class="content container">
+<div class="post">
+	<h1 class="post-title">Hola mundo&nbsp;libre</h1>
+	<span class="post-date">Sun 21 March 2021</span>
+	<p>Y pues, nada, aquí batallando con reencontrar mi lado libre y todo eso, dejaré una lista de comandos útiles por aquí, la edito pronto, cuando esto este mejor&nbsp;organizado:</p>
+<div class="highlight"><pre><span></span><code><span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">update</span>
+<span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">upgrade</span>
+
+<span class="n">sudo</span> <span class="n">apt</span> <span class="n">install</span> <span class="n">virtualenv</span>
+
+<span class="n">virtualenv</span> <span class="o">-</span><span class="n">p</span> <span class="n">python3</span> <span class="n">try</span>
+<span class="n">cd</span> <span class="n">try</span>
+<span class="n">source</span> <span class="n">bin</span><span class="o">/</span><span class="n">activate</span>
+<span class="n">python</span> <span class="o">--</span><span class="n">version</span>
+<span class="n">sudo</span> <span class="n">apt</span> <span class="n">install</span> <span class="n">python</span><span class="o">-</span><span class="n">pip</span>
+<span class="n">pip</span> <span class="n">install</span> <span class="n">pelican</span> <span class="n">Markdown</span> <span class="n">typogrify</span>
+<span class="n">pip</span> <span class="n">install</span> <span class="o">--</span><span class="n">upgrade</span> <span class="n">pelican</span> <span class="n">Markdown</span> <span class="n">typogrify</span>
+
+<span class="n">sudo</span> <span class="n">apt</span> <span class="n">install</span> <span class="n">git</span>
+<span class="n">git</span> <span class="n">clone</span> <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">github</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">engirare</span><span class="o">/</span><span class="n">engirare</span><span class="o">.</span><span class="n">github</span><span class="o">.</span><span class="n">io</span>
+<span class="n">git</span> <span class="n">config</span> <span class="o">--</span><span class="n">global</span> <span class="n">user</span><span class="o">.</span><span class="n">name</span> <span class="s2">&quot;engirare&quot;</span>
+<span class="n">git</span> <span class="n">config</span> <span class="o">--</span><span class="n">global</span> <span class="n">user</span><span class="o">.</span><span class="n">email</span> <span class="s2">&quot;engirare@tutanota.com&quot;</span>
+
+<span class="n">cd</span> <span class="n">engirare</span><span class="o">.</span><span class="n">github</span><span class="o">.</span><span class="n">io</span>
+
+<span class="n">git</span> <span class="n">status</span>
+
+<span class="n">cd</span> <span class="n">pelican</span>
+
+<span class="n">pelican</span> <span class="n">content</span> <span class="o">-</span><span class="n">o</span> <span class="o">..</span>
+<span class="n">pelican</span> <span class="o">--</span><span class="n">listen</span> <span class="o">-</span><span class="n">o</span> <span class="o">..</span> 
+
+<span class="n">localhost</span><span class="p">:</span><span class="mi">8000</span><span class="o">/</span>
+
+<span class="n">git</span> <span class="n">add</span> <span class="o">--</span><span class="n">all</span>
+<span class="n">git</span> <span class="n">commit</span> <span class="o">-</span><span class="n">m</span> <span class="s1">&#39;aquí va un mensaje&#39;</span>
+<span class="n">git</span> <span class="n">push</span>
+
+<span class="n">cd</span> <span class="o">..</span>
+<span class="n">cd</span> <span class="o">..</span>
+<span class="n">git</span> <span class="n">clone</span> <span class="o">--</span><span class="n">recursive</span> <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">github</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">jvanz</span><span class="o">/</span><span class="n">pelican</span><span class="o">-</span><span class="n">hyde</span>
+<span class="n">pelican</span><span class="o">-</span><span class="n">themes</span> <span class="o">--</span><span class="n">install</span> <span class="n">pelican</span><span class="o">-</span><span class="n">hyde</span>
+<span class="n">pelican</span><span class="o">-</span><span class="n">themes</span> <span class="o">--</span><span class="n">list</span>
+
+<span class="n">dig</span> <span class="n">WWW</span><span class="o">.</span><span class="n">EXAMPLE</span><span class="o">.</span><span class="n">COM</span> <span class="o">+</span><span class="n">nostats</span> <span class="o">+</span><span class="n">nocomments</span> <span class="o">+</span><span class="n">nocmd</span>
+    <span class="o">&gt;</span> <span class="p">;</span><span class="n">WWW</span><span class="o">.</span><span class="n">EXAMPLE</span><span class="o">.</span><span class="n">COM</span><span class="o">.</span>                     <span class="n">IN</span>      <span class="n">A</span>
+    <span class="o">&gt;</span> <span class="n">WWW</span><span class="o">.</span><span class="n">EXAMPLE</span><span class="o">.</span><span class="n">COM</span><span class="o">.</span>              <span class="mi">3592</span>    <span class="n">IN</span>      <span class="n">CNAME</span>   <span class="n">YOUR</span><span class="o">-</span><span class="n">USERNAME</span><span class="o">.</span><span class="n">github</span><span class="o">.</span><span class="n">io</span><span class="o">.</span>
+    <span class="o">&gt;</span> <span class="n">YOUR</span><span class="o">-</span><span class="n">USERNAME</span><span class="o">.</span><span class="n">github</span><span class="o">.</span><span class="n">io</span><span class="o">.</span>      <span class="mi">43192</span>   <span class="n">IN</span>      <span class="n">CNAME</span>    <span class="n">GITHUB</span><span class="o">-</span><span class="n">PAGES</span><span class="o">-</span><span class="n">SERVER</span> <span class="o">.</span>
+    <span class="o">&gt;</span>  <span class="n">GITHUB</span><span class="o">-</span><span class="n">PAGES</span><span class="o">-</span><span class="n">SERVER</span> <span class="o">.</span>         <span class="mi">22</span>      <span class="n">IN</span>      <span class="n">A</span>       <span class="mf">192.0</span><span class="o">.</span><span class="mf">2.1</span>
+
+<span class="o">$</span> <span class="n">dig</span> <span class="n">EXAMPLE</span><span class="o">.</span><span class="n">COM</span> <span class="o">+</span><span class="n">noall</span> <span class="o">+</span><span class="n">answer</span>
+<span class="o">&gt;</span> <span class="n">EXAMPLE</span><span class="o">.</span><span class="n">COM</span>     <span class="mi">3600</span>    <span class="n">IN</span> <span class="n">A</span>     <span class="mf">185.199</span><span class="o">.</span><span class="mf">108.153</span>
+<span class="o">&gt;</span> <span class="n">EXAMPLE</span><span class="o">.</span><span class="n">COM</span>     <span class="mi">3600</span>    <span class="n">IN</span> <span class="n">A</span>     <span class="mf">185.199</span><span class="o">.</span><span class="mf">109.153</span>
+<span class="o">&gt;</span> <span class="n">EXAMPLE</span><span class="o">.</span><span class="n">COM</span>     <span class="mi">3600</span>    <span class="n">IN</span> <span class="n">A</span>     <span class="mf">185.199</span><span class="o">.</span><span class="mf">110.153</span>
+<span class="o">&gt;</span> <span class="n">EXAMPLE</span><span class="o">.</span><span class="n">COM</span>     <span class="mi">3600</span>    <span class="n">IN</span> <span class="n">A</span>     <span class="mf">185.199</span><span class="o">.</span><span class="mf">111.153</span>
+
+<span class="c1"># show metadata of a image file</span>
+<span class="n">exiftool</span> <span class="n">myPhoto</span><span class="o">.</span><span class="n">jpg</span>
+
+<span class="c1"># remove all metadata of all *jpg files in current dir</span>
+<span class="n">exiftool</span> <span class="o">-</span><span class="n">all</span><span class="o">=</span> <span class="o">-</span><span class="n">overwrite_original</span> <span class="o">-</span><span class="n">ext</span> <span class="n">jpg</span> <span class="o">.</span>
+
+<span class="c1"># remove all metadata of a image file</span>
+<span class="n">exiftool</span> <span class="o">-</span><span class="n">all</span><span class="o">=</span> <span class="o">-</span><span class="n">overwrite_original</span> <span class="n">photo</span><span class="o">.</span><span class="n">jpg</span>
+
+<span class="c1"># remove all GPS metadata of *jpg files in current dir</span>
+<span class="n">exiftool</span> <span class="o">-</span><span class="n">gps</span><span class="p">:</span><span class="n">all</span><span class="o">=</span> <span class="o">*.</span><span class="n">jpg</span>
+</code></pre></div>
+
+<hr>
+<h5>i.&nbsp;Language</h5>
+<p>Either choose language as per your preference or press ‘1’ to proceed with&nbsp;default</p>
+<h5>ii. Number of console&nbsp;columns</h5>
+<p>Either choose number of console columns as per your preference or press ‘1’ to proceed with&nbsp;default</p>
+<h5>iii. Time&nbsp;zone</h5>
+<p>Either choose time zone as per your preference or press ‘1’ to proceed with&nbsp;default</p>
+<h5>iv. Other&nbsp;Options</h5>
+<p><del> Specifically choose ‘5’ – ‘from=usb’ to Finish Booting from a LiveUSB </del></p>
+<p>Aquí, en la versión que yo descargué, estaba en la opción&nbsp;‘7’</p>
+<h5>v. Persistence&nbsp;Option</h5>
+<p><del> Specifically choose ‘2’ – ‘persist_all’ to save root and home </del></p>
+<p>Esta fue la opción que más lata me dio. En la versión más reciente al elegir la opción ‘persist all’ cuando se tiene que crear el <code>roots file</code> te dice que no puede hacerlo&nbsp;x_x. </p>
+<p><img alt="why?" src="/drafts/images/rootMX.jpg"></p>
+<p>Yo probé varías opciones y de mis pruebas finalmente al elegir la opción ‘persist root’ fue la que me funcionó. Sigo sin entender por qué los archivos se guardan si por el menú yo entendí que los archivos en home se iban a borrar. <em>Nota mental: revisar en cuanto sea posible con mis&nbsp;amikes.</em></p>
+<h5>vi. Font&nbsp;Size</h5>
+<p>Either choose font size as per your preference or press ‘1’ to proceed with&nbsp;default</p>
+<h5>vii. Create rootfs&nbsp;file</h5>
+<p><del> Specifically choose ‘1’ – ‘create automatically’. Wait for the rootfs file to be created. </del></p>
+<p>En mis pruebas nunca funcionó, lo que me funcionó fue dar la opción 2, y elegir el valor más alto que me&nbsp;permitía.</p>
+<h5>viii. Create homefs&nbsp;file</h5>
+<p><del> Specifically choose ‘1’ – ‘create automatically’. Wait for the homefs file to be created. </del></p>
+<p>Esto nunca ocurrio en la opción de persistencia que&nbsp;elegí.</p>
+<h5>ix. Save these&nbsp;changes</h5>
+<p>Specifically choose ‘1’ – ‘Yes’ to save the changes made to the boot&nbsp;configuration.</p>
+<p>Al guardar me pregunto si quería hacer <code>swipe</code>, en dos ocasiones yo di que sí, y el sistema se volvió la cosa más lenta del mundo. En la ocasión que dije que no, eso no ocurrió, leyendo el manual de <span class="caps">MX</span> Linux, en una parte mencionan que con esa opción se vuelven más lentos los discos, yo se lo atribuyo, pero no sé explicar por qué. <em>Nota mental: revisar en cuanto sea posible con mis&nbsp;amikes.</em></p>
+<h5>x. Change ‘root’ user&nbsp;password</h5>
+<p>Type and re-type a new and secure password to change the default root user&nbsp;password.</p>
+<h5>xi. Change ‘demo’ user&nbsp;password</h5>
+<p>Type and re-type a new and secure password to change the default demo user&nbsp;password.</p>
+<h5>xii. Auto Save&nbsp;Mode</h5>
+<p>Specifically choose ‘1’ – ‘Automatic’ to save on shutdown/ reboot automatically without need to ask for saving data every&nbsp;time.</p>
+<p>Yo aquí elegí la opción semi-automatica, pero sigo evaluando si mejor lo cambio a&nbsp;automática.</p>
+<p>Finally, the <span class="caps">MX</span> Linux persistent session will load from Flash&nbsp;Drive.</p>
+<hr>
+</div>
+		</div>
+	</body>
+</html>

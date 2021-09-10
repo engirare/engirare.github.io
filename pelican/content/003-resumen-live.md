@@ -9,7 +9,7 @@ Author: Engirare
 Summary: Oficialmente terminé mi primera transmisión en vivo.. aquí describo mi sentir después de vivirla..
 Lang: es-MX
 Translation: false
-Status: published
+Status: draft
 ---
 
 Oficialmente terminé mi primera transmisión en vivo, fue.. novedoso.. mejoraré. Dice mi amiga que fue mi preparación a mi examen profesional. __NI DE BROMA.__

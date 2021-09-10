@@ -9,7 +9,7 @@ Author: Engirare
 Summary: Me presento, soy EngiRare. Que viene de Engineer y Rare... y aquí doy por inaugurado este espacio (:
 Lang: es-MX
 Translation: false
-Status: published
+Status: draft
 ---
 
 Me presento, soy EngiRare. Que viene de Engineer y Rare. Vaya, mi imaginación vino a desfalcar a Bella cuando decidió ponerle a su hija Renésme (x.x jahja). ¿Por qué en inglés? Porque Rare es el álbum que me acompaño en mi proceso de cambio _(in the middle of pandemic)_ y quería mantenerlo así, como un guiño, aunque bueno, si lo prefieres, tú que estás leyendo esto, puedes llamarme IngeRara, pues mantendremos comunicación en español (¿espanglish?).

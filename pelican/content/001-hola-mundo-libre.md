@@ -9,7 +9,7 @@ Author: Engirare
 Summary: Aquí batallando con reencontrar mi lado libre y todo eso.. hice una lista de comandos que uso para mi blog (:
 Lang: es-MX
 Translation: false
-Status: published
+Status: draft
 ---
 Y pues, nada, aquí batallando con reencontrar mi lado libre y todo eso, dejaré una lista de comandos útiles por aquí, la edito pronto, cuando esto este mejor organizado:
 

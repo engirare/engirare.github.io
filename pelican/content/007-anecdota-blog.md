@@ -9,7 +9,7 @@ Author: Engirare
 Summary: Estoy lista para contarte sobre las herramientas que le dan vida a este precioso espacio, espero que mi listado te sea de alguna utilidad (:
 Lang: es-MX
 Translation: false
-Status: published
+Status: draft
 ---
 Lo primero que quiero que sepas es que yo me considero una _usuaria tecnológica básica-media_ (si es que eso existe), pues llevo un tiempo rodeada de amikes de ingeniería en computación y me he logrado empapar de algunos de sus saberes, y al mismo tiempo he cultivado los que me han resultado personalmente útiles. Entre ellas, el control de versiones por medio de git, el uso de herramientas que no son WYSIWYG (_en verdad, ¡me sacan de quicio!_) escapando gracias a latex o markdown, y -por ser del módulo de control en mi universidad- he programado en octave a _quite of interesting things_ aunque _debo confesar que en la premura de entrega de proyectos y falta de tiempo he caído en las seductivas garras de matlab y simulink_ para mis clases de control avanzado y sistemas no lineales. 
 

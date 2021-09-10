@@ -9,7 +9,7 @@ Author: Engirare
 Summary: Como hice explicito en varios prefiles, estoy aprendiendo sobre generadores eléctricos.. aquí enlisto recursos útiles sobre ellos (:
 Lang: es-MX
 Translation: false
-Status: published
+Status: draft
 ---
 
 Como hice explicito en varios prefiles, estoy aprendiendo sobre generadores eléctricos, porque voy a participar en un proyecto que los incluye de dos formas. La primera, como fuente principal de una nave industrial. La segunda, como planta de emergencia de esa nave industrial.

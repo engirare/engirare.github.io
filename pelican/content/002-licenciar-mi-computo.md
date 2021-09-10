@@ -9,7 +9,7 @@ Author: Engirare
 Summary:  Mañana estaré presente en un live.. aquí dejo un resumen sobre cultura libre (:
 Lang: es-MX
 Translation: false
-Status: published
+Status: draft
 ---
 
 Con la novedad de que mañana estoy presente en un live. Haré un pequeño resumen de los temas que se van a tocar para estar más tranquila.
